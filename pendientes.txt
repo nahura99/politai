@@ -1,6 +1,6 @@
 PENDIENTES
 Proyecto: democracia directa subnacional en Uruguay. Producto final: artículo de ciencia política.
-Archivo vivo. Última actualización: 2026-09-29 (sexta revisión: pendientes vitales cerrados; sólo quedan las decisiones D1-D4).
+Archivo vivo. Última actualización: 2026-09-29 (séptima revisión: destino fijado en Politai N.º 29; plazo 30/9/2026).
 
 Convención: [U] sólo vos podés resolverlo. [I] puedo seguirlo yo si me lo pedís. [D] decisión tuya.
             [x] resuelto.
@@ -47,8 +47,17 @@ DECISIONES (definen el artículo)
             y Ecuador (dictamen previo).
         Se pueden combinar, pero conviene elegir un eje principal.
 [D] D2. Fecha de corte empírica (sugerencia: 30/9/2026 o cierre del caso Paysandú).
-[D] D3. Formato y destino: revista (RUCP, JPLA, Latin American Politics and Society, Revista
-        Latinoamericana de Política Comparada), extensión y sistema de citas.
+[x] D3. Destino: Politai, Revista de Ciencia Política (PUCP), N.º 29, "Crisis institucional,
+        gobernabilidad y gobernanza a nivel subnacional". Bases en fuentes/Convocatoria-R29-*.pdf.
+        Requisitos: cuerpo 4.000-8.000 palabras (incluye notas, tablas y gráficos); abstract 300-350
+        palabras con traducción al inglés; título en inglés; 4-6 palabras clave (con traducción);
+        estructura sugerida: título, introducción, justificación, pregunta, objetivos, estado del
+        arte, marco teórico, metodología, hallazgos, conclusiones, referencias; APA 7.ª ed.; Times
+        New Roman 12, interlineado 1,5, A4; cuadros y gráficos en archivo aparte (Excel); máximo dos
+        autores. ENVÍO: politai@pucp.edu.pe, asunto "Convocatoria Revista Politai N°29", HASTA EL
+        30 DE SETIEMBRE DE 2026. Ejes que encajan: III (participación ciudadana y consulta popular
+        en gobiernos subnacionales; conflictos socioambientales y territoriales) y I (legitimidad
+        y movilización ciudadana subnacional).
 [D] D4. Tratamiento de los instrumentos limítrofes (art. 303, consultas no vinculantes): sólo
         deslinde en una nota, o variable de "vía alternativa" en el análisis de desenlaces
         (Tacuarembó 2014 muestra que importa).
