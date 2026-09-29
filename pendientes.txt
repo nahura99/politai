@@ -1,6 +1,6 @@
 PENDIENTES
 Proyecto: democracia directa departamental y local en Uruguay
-Archivo vivo: se actualiza en cada intercambio. Última actualización: 2026-09-29 (segunda revisión, tras lectura de la Sentencia 27.333 y de los textos legales).
+Archivo vivo: se actualiza en cada intercambio. Última actualización: 2026-09-29 (tercera revisión, tras lectura de Tealdi 2019, Correa Freitas 2020 y la Sección XVI).
 
 Convención: [U] pendiente que sólo vos podés resolver (acceso, decisión, lectura de fuentes bloqueadas para mí).
             [I] pendiente de investigación que puedo seguir yo si me lo pedís.
@@ -10,19 +10,24 @@ Convención: [U] pendiente que sólo vos podés resolver (acceso, decisión, lec
 -----------------------------------------------------------------------------
 A. VERIFICACIÓN DE FUENTES PRIMARIAS (no pude descargarlas: proxy bloqueado)
 -----------------------------------------------------------------------------
-[U] A1. Cotejar con IMPO los arts. 262, 303, 304 y 305 de la Constitución: el PDF aportado llega
-        sólo hasta el art. 214. Pasar el PDF completo o las páginas de la Sección XVI. (La Ley 9.515
-        y la Ley 19.272 ya están cotejadas; el art. 304 está corroborado por las citas literales de
-        la Sentencia 27.333: "reglamentará".)
+[U] A1. Ley 18.567, art. 16, texto original de 2009 (único texto normativo que falta cotejar). Los
+        arts. 262-306 de la Constitución quedaron cotejados con la transcripción de Factum; si querés
+        máxima seguridad, confrontar el art. 262 con IMPO porque la copia de Factum tiene un salto de
+        línea que garbla el inciso sobre materia departamental y municipal.
 [U] A2. Obtener el texto completo de las sentencias de la Corte Electoral que la 27.333 revela como
         cadena jurisprudencial, e identificar departamento, decreto y promotores de cada una:
-        - 24.369 (julio de 1988; la sentencia la fecha una vez el 6 y otra el 16): exclusión de la
-          materia tributaria. Caso desconocido.
-        - 25.940 (11/7/1996) y 25.942 (3 o 31/7/1996): derogación de la Ley 9.515. Casos desconocidos.
+        - 24.369 (6/7/1988): caso Intendencia de FLORES (según Correa Freitas). Falta el decreto
+          tributario impugnado y los promotores.
+        - 25.940 (11/7/1996): caso desconocido. 25.942 (31/7/1996): caso Intendencia de ROCHA (según
+          Correa Freitas); falta el decreto y los promotores.
         - 26.926 y 26.927 (20/12/2006): reiteran la derogación. Casos desconocidos.
+        - 27.023 (27/8/2009): FLORES, iniciativa departamental para eximir del casco (nuevo caso,
+          según Correa Freitas). Falta el texto y las firmas.
         - 27.193 (23/10/2013): vigencia de la Ley 9.515; por fecha, debe ser Tacuarembó. Confirmar.
-        - 27.198 (11/3/2014): vigencia de la Ley 9.515. Caso desconocido (¿Lavalleja, Rivera, Treinta y
-          Tres, o una segunda instancia de Tacuarembó?).
+        - 27.198 (11/3/2014): referéndum contra una RESOLUCIÓN del Intendente sobre flechado de una
+          calle (según Tealdi). Falta el departamento.
+        - Indicio de un intento en 1985 (consulta de Cassinelli, Mundo Color 3/7/1985; Esteva 1985) y
+          otro en 1993 (Risso en El País 18/6/1993; Sapolinski 1993): identificar.
         - 27.351 (21/9/2017, Colonia): confirmar que resolvió una impugnación de los promotores.
         - 28.712 (Paysandú): confirmar fecha (la Junta la cita como 26/6/2026; la prensa la difundió
           el 21-22/7/2026).
@@ -30,6 +35,12 @@ A. VERIFICACIÓN DE FUENTES PRIMARIAS (no pude descargarlas: proxy bloqueado)
         impo.com.uy/bases/sentencias-corte-electoral/<número>-<año>.
 [U] A3. Obtener las circulares 5.664 (1986), 8.821 (2012), 10.840 (municipios 2020-2025) y 12.430
         (marzo 2026; confirmar si es del 10 o del 17 de marzo).
+[U] A6. Obtener el texto completo de Tealdi, "Restricciones al ejercicio de la democracia directa",
+        Revista de Derechos Humanos (FCU), 26 pp.: https://revistas.fcu.edu.uy/index.php/DDHH/es/article/view/5030
+        (sólo llegó la portada).
+[U] A7. Conseguir, si es posible, los artículos de doctrina de 1985-1996 citados por Tealdi: Esteva
+        (RUDCP 7, 1985), Frugone Schiavone (RUDCP 53-54, 1993), Sapolinski (RUDCP 57, 1993), Ruocco
+        (1994), Cagnoni (RDP 9, 1996). Están sólo en papel (biblioteca de la Facultad de Derecho).
 [U] A4. Acta o informe de la Corte Electoral sobre el plebiscito del vintén (22/7/1951): cifras por
         Sí y por No (las fuentes sólo dan 117.649 votantes).
 [U] A5. Padrón de habilitados por departamento (2024-2025) y del Municipio de Empalme Olmos, para
@@ -39,6 +50,10 @@ A. VERIFICACIÓN DE FUENTES PRIMARIAS (no pude descargarlas: proxy bloqueado)
 -----------------------------------------------------------------------------
 B. VACÍOS DE CASOS
 -----------------------------------------------------------------------------
+[I] B0. Iniciativas locales contra el Ferrocarril Central (2019-2020): ya sabemos que Santa
+        Bernardina alcanzó las firmas (dic. 2019) y que la Corte rechazó la de Sarandí Grande por
+        materia nacional. Falta: número y fecha de esa sentencia, y desenlace de Santa Bernardina,
+        Carlos Reyles y Joanicó.
 [I] B1. Desenlace de la iniciativa popular de Maldonado 2017 (contribución inmobiliaria, Decreto
         3.947). Busqué dos veces sin resultado; queda revisar actas de la Junta de Maldonado
         2017-2018 y prensa local (Correo de Punta del Este, Maldonado Noticias).
@@ -107,6 +122,10 @@ F. RESUELTOS
                 mayoría (7-2, con tres discordias parciales), no unánime; la exclusión tributaria se
                 funda en la Sección XIV y en la Sentencia 24.369 de 1988, no en la analogía con el
                 art. 79; identificadas siete sentencias previas (1988-2014) no registradas.
+[x] 2026-09-29. Leídos Tealdi (2019), Correa Freitas (2020), la Sección XVI de la Constitución (Factum)
+                y El Telégrafo (set. 2026): incorporados los casos Flores 1988, Rocha 1996, Flores 2009
+                (casco), flechado 2014 y Ferrocarril Central 2019-20; doctrina completa sobre la
+                vigencia del art. 79; arts. 262-306 cotejados; recurso de reposición de Paysandú.
 [x] 2026-09-29. Ley 9.515 arts. 74-79 y Ley 19.272 arts. 5 y 16 cotejados con IMPO: corregidos el
                 inciso 3 del art. 76 (referéndum en la elección más próxima sin efecto suspensivo) y
                 la mayoría de dos tercios del art. 16.

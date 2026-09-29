@@ -115,8 +115,47 @@ Literatura, normativa, jurisprudencia electoral y fuentes de casos sobre democra
 
 38. **vLex.** "Artículo 303 Constitución (recurso apelación decretos municipales). Reglamentación". `[V]` https://uy.vlex.com/vid/articulo-303-constitucion-recurso-899434003
 
-38a. **Roucco, Graciela.** "El referéndum contra los decretos departamentales". `[C]` (citada por la Corte Electoral en la Sentencia 27.333; sede y año a confirmar)
-    Nota: sostiene la vigencia de los arts. 74-77 de la Ley 9.515 como reglamentación del art. 304; es la doctrina en que se apoyó la mayoría de la Corte en 2013, 2014 y 2017.
+38a. **Ruocco, Graciela (1994).** "El referéndum contra los decretos departamentales". En *El Poder y su Control*, Revista Uruguaya de Derecho Constitucional y Político, 2.ª ed., pp. 49-63. `[V]` (datos según Tealdi 2019)
+    Nota: sostiene la vigencia de los arts. 74-77 de la Ley 9.515 y que la Constitución usa "decreto de la Junta", "decreto del Gobierno Departamental" y "decreto" como sinónimos; doctrina en que se apoyó la mayoría de la Corte en 2013, 2014 y 2017.
+
+38e. **Tealdi, Jean-Paul (2019).** "Los actos de los Gobiernos Departamentales y su control por los mecanismos de gobierno directo". *Revista de Derecho Público* 28(55): 97-114. `[V]` (texto íntegro en fuentes/)
+    Eje: ADOPCIÓN, DESENLACE. Nota: periodiza la jurisprudencia de la Corte Electoral en tres momentos (inexistencia hasta 2013; existencia con las Sentencias 27.193 y 27.198; restricción tributaria con la 27.333) y sostiene que la restricción de 2017 viola los arts. 304 y 332. Revela que la 27.198 trató un referéndum contra una resolución del Intendente (flechado de una calle), rechazado porque el art. 304 sólo alcanza decretos. Bibliografía jurídica completa sobre el tema.
+
+38f. **Tealdi Correa, Jean-Paul (s/f).** "Restricciones al ejercicio de la democracia directa". *Revista de Derechos Humanos* (FCU), 26 pp. `[V]` (sólo portada) https://revistas.fcu.edu.uy/index.php/DDHH/es/article/view/5030/4429
+    Nota: obtener texto completo.
+
+38g. **Correa Freitas, Ruben (2020).** Consulta profesional a Grupo Vía Central S.A. sobre iniciativa popular local y competencia en materia ferroviaria, Montevideo, 3 de enero de 2020, 21 pp. `[V]` (texto íntegro en fuentes/)
+    Eje: ADOPCIÓN, ACTIVACIÓN. Nota: sostiene que el art. 79 de la Ley 9.515 fue derogado por oposición superviniente por la Constitución de 1942 y no revivió en 1952, y que el art. 16 de la Ley 19.272 derogó tácitamente los arts. 78-79; reseña toda la doctrina (Jiménez de Aréchaga, Estrázulas, Renán Rodríguez, Risso, Gutiérrez, Prat, Martins, Aguirre Ramírez, Korzeniak); identifica las Sentencias 24.369 (Flores, 6/7/1988), 25.942 (Rocha, 31/7/1996) y 27.023 (Flores, 27/8/2009, iniciativa sobre uso del casco, materia nacional); documenta las iniciativas locales de 2019-2020 contra el Ferrocarril Central.
+
+38h. **Esteva Gallicchio, Eduardo (1985).** "¿Es constitucionalmente posible el referéndum como recurso contra un decreto de una Junta Departamental que establezca tributos?". *Revista Uruguaya de Derecho Constitucional y Político* II(7): 57-65. `[V]` (datos según Tealdi)
+    Nota: cita la consulta de Cassinelli Muñoz publicada en *Mundo Color* el 3/7/1985: "la ley vigente no establece ningún distingo. Todos los decretos de las Juntas Departamentales son susceptibles del recurso de referéndum". Indica un intento de referéndum tributario en 1985 no identificado.
+
+38i. **Frugone Schiavone, Héctor (1993).** "Plebiscitos, referéndum e iniciativas populares en el ámbito territorial departamental". *Revista Uruguaya de Derecho Constitucional y Político* IX(53-54): 353-374. `[V]` (datos según Tealdi)
+
+38j. **Sapolinski, Jaime (1993).** "Sobre iniciativa popular y referéndum en el ámbito departamental: no se puede". *Revista Uruguaya de Derecho Constitucional y Político* X(57): 353-356. `[V]` (datos según Tealdi)
+    Nota: el título resume la tesis derogatoria; coincide con Risso Ferrand, "El País", 18/6/1993. La coincidencia de fechas (1993) sugiere un intento de iniciativa o referéndum ese año, por identificar.
+
+38k. **Cagnoni, José Aníbal (1996).** "Los institutos de gobierno directo en Uruguay". *Revista de Derecho Público* 9: 47-54. `[V]` (datos según Tealdi)
+
+38l. **Gros Espiell, Héctor (2001).** "El ejercicio directo de la soberanía según la Constitución uruguaya y la Corte Electoral". CEDECU, Serie de Ensayos 3. `[V]` (datos según Tealdi); y (1990) *La Corte Electoral del Uruguay*, IIDH, Costa Rica (art. 322 lit. C: distinción entre acto electoral y actos de plebiscito y referéndum).
+
+38m. **Gutiérrez Fernández, Fulvio (2004).** *Gobierno Departamental*. FCU, pp. 67-68 (art. 79 derogado). `[V]` (según Correa Freitas); y (2012) *Manual jurídico sobre los Gobiernos Departamentales*, FCU. `[V]` (según Tealdi)
+
+38n. **Martins, Daniel Hugo (2003/2006).** *El Gobierno y la Administración de los Departamentos*, tomo II, pp. 405-408 (art. 79 vigente; aplicación del art. 332). `[V]` (según Correa Freitas)
+
+38o. **Prat, Julio A. (1982).** *Derecho Administrativo*, Acali, tomo 5, vol. 2, pp. 108-109 (la Constitución de 1952 disipa el problema de constitucionalidad del art. 79). `[V]` (según Correa Freitas)
+
+38p. **Sánchez, Álvaro (2012).** "Instrumentos de control sobre los Gobiernos Departamentales", partes I y II. *Revista de Legislación Uruguaya* 3(4): 87-100 y 3(8): 67-78. `[V]` (según Tealdi)
+
+38q. **Delpiazzo, Carlos (2010).** *Autoridades departamentales y municipales*. AMF. `[C]`
+
+38r. **Méndez, Aparicio (1948).** "Procedimientos objetivos de regulación institucional. Algunas consideraciones acerca de los llamados recursos municipales de inconstitucionalidad e ilegalidad y de 'control' presupuestal". *Revista de Derecho Público y Privado* 121: 259-280. `[V]` (según Tealdi)
+
+38s. **Real, Alberto Ramón (1968).** "Iniciativa popular y referéndum en materia legislativa (art. 79 inc. 2 de la Constitución)". En *Temas jurídicos: la Constitución de 1967*, FCU, pp. 225-229. `[V]` (según Tealdi)
+
+38t. **Jiménez de Aréchaga, Justino.** *La Constitución Nacional*, tomo IX, pp. 156-157 (art. 79 de la Ley 9.515 inconstitucional bajo 1934/1942) y *La Constitución de 1952* (curso, con Estrázulas), Cámara de Senadores, 1995, pp. 589-590. `[V]` (según Correa Freitas)
+
+38u. **Cassinelli Muñoz, Horacio.** "Oposición superviniente: derogación o inconstitucionalidad". *Revista de Derecho, Jurisprudencia y Administración* 55: 157 y ss.; "Dos notas prácticas sobre abrogación constitucional", RDJA 65 (1967): 92-101. `[V]` (según Correa Freitas y Tealdi)
 
 38b. **Jiménez de Aréchaga, Justino.** *La Constitución Nacional*, tomo I. `[C]`
     Nota: la cita sobre el cuerpo electoral como "órgano contenido por el derecho" (p. 158) es el cierre argumental de la Sentencia 27.333.
@@ -135,15 +174,17 @@ Literatura, normativa, jurisprudencia electoral y fuentes de casos sobre democra
 42. Ley 18.644 (2010) y Ley 18.653 (2010), modificativas. https://docs.uruguay.justia.com/nacionales/leyes/ley-18644-feb-12-2010.pdf ; https://docs.uruguay.justia.com/nacionales/leyes/ley-18653-mar-15-2010.pdf
 43. Ley 19.272 (2014), art. 16. https://www.impo.com.uy/bases/leyes/19272-2014
 44. Digesto Departamental de Montevideo, transcripción de Ley 9.515 y Ley 19.272. https://normativa.montevideo.gub.uy/articulos/86344 ; https://normativa.montevideo.gub.uy/content/a214-0
-45. Constituciones históricas (Biblioteca Virtual Miguel de Cervantes): 1918, 1934, 1942, 1952. https://www.cervantesvirtual.com/obra-visor/constitucion-de-1918/html/ede0ff47-9171-4208-988f-ff320585a241_2.html
+44a. Constitución, Sección XVI (arts. 262-306), transcripción de Factum. https://portal.factum.uy/ediciones-anteriores/document/constit/sec16.html (en fuentes/)
+45. Constituciones históricas (Biblioteca Virtual Miguel de Cervantes): 1918, 1934, 1942, 1952. Numeración: 1934 arts. 265-266; 1942 arts. 262-263; 1952 y 1967 arts. 304-305. https://www.cervantesvirtual.com/obra-visor/constitucion-de-1918/html/ede0ff47-9171-4208-988f-ff320585a241_2.html
 
 ## E. Corte Electoral: sentencias, circulares, comunicados
 
 45a. **Cadena jurisprudencial sobre el referéndum departamental identificada en la Sentencia 27.333** (todas a obtener en IMPO, base de sentencias de la Corte Electoral):
-    - Sentencia 24.369 (julio de 1988): exclusión de los decretos hacendísticos, tributarios y presupuestales del art. 304.
-    - Sentencias 25.940 (11/7/1996) y 25.942 (julio de 1996): la Ley 9.515 fue derogada por la Constitución de 1952; el art. 304 no admite exclusiones por materia (25.940).
+    - Sentencia 24.369 (6/7/1988, Intendencia de Flores): exclusión de los decretos hacendísticos, tributarios y presupuestales del art. 304.
+    - Sentencias 25.940 (11/7/1996, caso por identificar) y 25.942 (31/7/1996, Intendencia de Rocha): la Ley 9.515 fue derogada por la Constitución de 1952; el art. 304 no admite exclusiones por materia (25.940).
     - Sentencias 26.926 y 26.927 (20/12/2006): reiteran la derogación.
-    - Sentencias 27.193 (23/10/2013, probablemente Tacuarembó) y 27.198 (11/3/2014): por mayoría, vigencia de los arts. 74-77 de la Ley 9.515.
+    - Sentencia 27.023 (27/8/2009, Flores): iniciativa popular departamental (arts. 78-79 Ley 9.515) para permitir circular sin casco a ciclistas y motociclistas; no ha lugar por materia nacional.
+    - Sentencias 27.193 (23/10/2013, probablemente Tacuarembó) y 27.198 (11/3/2014, referéndum contra resolución del Intendente sobre flechado, departamento por identificar): por mayoría, vigencia de los arts. 74-79 de la Ley 9.515; las resoluciones no son decretos.
 46. Sentencia 27.333 (22/3/2017) y Sentencia 27.351 (21/9/2017), recurso de referéndum contra el Decreto 034/2016 de la Junta Departamental de Colonia. Texto íntegro de la 27.333 (36 páginas, escaneado) disponible en el proyecto; analizada en la sección 5.4 del documento principal. Índice en vLex: https://uy.vlex.com/source/corte-electoral-republica-oriental-uruguay-47817 ; informe de la Comisión de Asuntos Electorales (21/3/2017): http://politica.uruguay30.com/wp-content/uploads/2017/03/FALLO-CORTE-ELECTORAL.pdf
 47. Resolución sobre la iniciativa de Tacuarembó (2013). Sin número identificado; ver prensa en `01-uruguay.md` F.
 48. Sentencia 28.712 (26/6/2026), iniciativa legislativa departamental de Paysandú. Sin enlace oficial identificado; ver prensa.
