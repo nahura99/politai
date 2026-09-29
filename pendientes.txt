@@ -1,6 +1,6 @@
 PENDIENTES
 Proyecto: democracia directa subnacional en Uruguay. Producto final: artículo de ciencia política.
-Archivo vivo. Última actualización: 2026-09-29 (séptima revisión: destino fijado en Politai N.º 29; plazo 30/9/2026).
+Archivo vivo. Última actualización: 2026-09-29 (octava revisión: borrador completo del artículo redactado; plazo 30/9/2026).
 
 Convención: [U] sólo vos podés resolverlo. [I] puedo seguirlo yo si me lo pedís. [D] decisión tuya.
             [x] resuelto.
@@ -33,10 +33,39 @@ VITALES (cerrados el 2026-09-29 tras la barrida final de búsquedas)
         corte.
 
 =============================================================================
+ESTADO DEL ARTÍCULO (docs/articulo-politai-29.txt)
+=============================================================================
+
+Borrador completo, con las ocho secciones pedidas. Extensión: cuerpo 7.871 palabras (límite 8.000,
+incluye Tablas 1 y 2 y el mapa esquemático); resumen 342 y abstract 332 palabras (rango 300-350);
+bibliografía aparte. Base de datos: datos/casos-democracia-directa-subnacional-uruguay.csv (22 eventos
++ antecedente 1927).
+
+Antes del envío (30/9/2026, politai@pucp.edu.pe, asunto "Convocatoria Revista Politai N°29"):
+[U] E1. Leer el borrador y decidir si el eje principal (filtro de admisibilidad de la Corte + delegación
+        de la negativa) es el que querés defender, o si reordenar hacia D1 (b).
+[U] E2. Pasar el .txt a Word (Times New Roman 12, interlineado 1,5, A4) y mover Tabla 1, Tabla 2 y el
+        mapa a un archivo Excel aparte, como exige la convocatoria. El cuerpo baja entonces a ~6.900
+        palabras: hay margen para ampliar si querés.
+[U] E3. Mapa: el del borrador es un esquema en texto. La versión final debe ser un coroplético (INE,
+        shapefile de departamentos) con la cuenta de activaciones por departamento; si no se hace,
+        dejar sólo la Tabla 2.
+[U] E4. Autoría, filiación y datos de contacto (máximo dos autores).
+[I] E5. Verificar las entradas [C] y [P] de la bibliografía que quedaron citadas en el artículo (Altman
+        2011/2019, Eder, Vatter y Freitag 2009, Lissidini 2015, Antía y Vairo 2023, Monestier, Welp,
+        Cardarello y Freigedo, Serdült y Welp): datos exactos de edición, páginas y DOI.
+[I] E6. Padrón 2024 de los departamentos marcados s/d en la Tabla 2 (Colonia, Cerro Largo, Durazno,
+        Florida, Treinta y Tres, Lavalleja, Flores y los cinco sin activaciones), desde el Plan
+        circuital de la Corte. Necesario si se conserva la Tabla 2 completa.
+[U] E7. Actualizar el estado de Paysandú (recurso de reposición), Empalme Olmos y Durazno a la fecha
+        de corte que fijes (D2).
+
+=============================================================================
 DECISIONES (definen el artículo)
 =============================================================================
 
-[D] D1. Pregunta y marco teórico. Opciones que surgen del material:
+[D] D1. Pregunta y marco teórico. El borrador adopta (c) como eje principal, con (a) en H1 y (b) como
+        variable de control ("activador") en H3. Falta tu confirmación. Opciones originales:
         (a) diseño institucional y activación: por qué un instituto de 1935 se usa tan poco y por qué
             el uso se desplaza del referéndum (20 %, 40 días) a la iniciativa (15 %, sin plazo), en la
             línea de Eder-Vatter-Freitag 2009 y Altman 2011;
@@ -106,3 +135,6 @@ RESUELTOS
                 de firmas y padrón de Tacuarembó 2013 y Chuy 2014.
 [x] 2026-09-29. V5 confirmado por el autor: no hay estudio politológico previo sobre democracia
                 directa subnacional en Uruguay.
+[x] 2026-09-29. Convocatoria Politai N.º 29 leída y archivada en fuentes/ (D3).
+[x] 2026-09-29. Borrador completo del artículo redactado (docs/articulo-politai-29.txt) y base de datos
+                de casos exportada a CSV (datos/). Resumen y abstract ajustados al rango 300-350.
