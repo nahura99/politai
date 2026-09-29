@@ -1,131 +1,113 @@
 PENDIENTES
-Proyecto: democracia directa departamental y local en Uruguay
-Archivo vivo: se actualiza en cada intercambio. Última actualización: 2026-09-29 (tercera revisión, tras lectura de Tealdi 2019, Correa Freitas 2020 y la Sección XVI).
+Proyecto: democracia directa subnacional en Uruguay. Producto final: artículo de ciencia política.
+Archivo vivo. Última actualización: 2026-09-29 (cuarta revisión: depuración a pendientes vitales;
+orientación disciplinaria fijada en ciencia política).
 
-Convención: [U] pendiente que sólo vos podés resolver (acceso, decisión, lectura de fuentes bloqueadas para mí).
-            [I] pendiente de investigación que puedo seguir yo si me lo pedís.
-            [D] decisión que tenés que tomar.
-            [x] resuelto (se conserva con fecha).
+Convención: [U] sólo vos podés resolverlo. [I] puedo seguirlo yo si me lo pedís. [D] decisión tuya.
+            [x] resuelto.
 
------------------------------------------------------------------------------
-A. VERIFICACIÓN DE FUENTES PRIMARIAS (no pude descargarlas: proxy bloqueado)
------------------------------------------------------------------------------
-[U] A1. Ley 18.567, art. 16, texto original de 2009 (único texto normativo que falta cotejar). Los
-        arts. 262-306 de la Constitución quedaron cotejados con la transcripción de Factum; si querés
-        máxima seguridad, confrontar el art. 262 con IMPO porque la copia de Factum tiene un salto de
-        línea que garbla el inciso sobre materia departamental y municipal.
-[U] A2. Obtener el texto completo de las sentencias de la Corte Electoral que la 27.333 revela como
-        cadena jurisprudencial, e identificar departamento, decreto y promotores de cada una:
-        - 24.369 (6/7/1988): caso Intendencia de FLORES (según Correa Freitas). Falta el decreto
-          tributario impugnado y los promotores.
-        - 25.940 (11/7/1996): caso desconocido. 25.942 (31/7/1996): caso Intendencia de ROCHA (según
-          Correa Freitas); falta el decreto y los promotores.
-        - 26.926 y 26.927 (20/12/2006): reiteran la derogación. Casos desconocidos.
-        - 27.023 (27/8/2009): FLORES, iniciativa departamental para eximir del casco (nuevo caso,
-          según Correa Freitas). Falta el texto y las firmas.
-        - 27.193 (23/10/2013): vigencia de la Ley 9.515; por fecha, debe ser Tacuarembó. Confirmar.
-        - 27.198 (11/3/2014): referéndum contra una RESOLUCIÓN del Intendente sobre flechado de una
-          calle (según Tealdi). Falta el departamento.
-        - Indicio de un intento en 1985 (consulta de Cassinelli, Mundo Color 3/7/1985; Esteva 1985) y
-          otro en 1993 (Risso en El País 18/6/1993; Sapolinski 1993): identificar.
-        - 27.351 (21/9/2017, Colonia): confirmar que resolvió una impugnación de los promotores.
-        - 28.712 (Paysandú): confirmar fecha (la Junta la cita como 26/6/2026; la prensa la difundió
-          el 21-22/7/2026).
-        Búsqueda sugerida para cada número: "<número>" site:impo.com.uy corte electoral, o la URL
-        impo.com.uy/bases/sentencias-corte-electoral/<número>-<año>.
-[U] A3. Obtener las circulares 5.664 (1986), 8.821 (2012), 10.840 (municipios 2020-2025) y 12.430
-        (marzo 2026; confirmar si es del 10 o del 17 de marzo).
-[U] A6. Obtener el texto completo de Tealdi, "Restricciones al ejercicio de la democracia directa",
-        Revista de Derechos Humanos (FCU), 26 pp.: https://revistas.fcu.edu.uy/index.php/DDHH/es/article/view/5030
-        (sólo llegó la portada).
-[U] A7. Conseguir, si es posible, los artículos de doctrina de 1985-1996 citados por Tealdi: Esteva
-        (RUDCP 7, 1985), Frugone Schiavone (RUDCP 53-54, 1993), Sapolinski (RUDCP 57, 1993), Ruocco
-        (1994), Cagnoni (RDP 9, 1996). Están sólo en papel (biblioteca de la Facultad de Derecho).
-[U] A4. Acta o informe de la Corte Electoral sobre el plebiscito del vintén (22/7/1951): cifras por
-        Sí y por No (las fuentes sólo dan 117.649 votantes).
-[U] A5. Padrón de habilitados por departamento (2024-2025) y del Municipio de Empalme Olmos, para
-        completar la tabla de umbrales (sección 4.5 del análisis). Sólo tengo Maldonado (153.234).
-        Fuente sugerida: catálogo de datos abiertos de la Corte Electoral (habilitados por circuito).
+Criterio de esta revisión: queda como pendiente sólo lo que cambia la descripción del universo de
+casos, la explicación de la activación y los desenlaces, o el posicionamiento del artículo en la
+disciplina. La discusión normativa está suficientemente resuelta para los fines del artículo; lo
+jurídico pasa a ser contexto, no objeto.
 
------------------------------------------------------------------------------
-B. VACÍOS DE CASOS
------------------------------------------------------------------------------
-[I] B0. Iniciativas locales contra el Ferrocarril Central (2019-2020): ya sabemos que Santa
-        Bernardina alcanzó las firmas (dic. 2019) y que la Corte rechazó la de Sarandí Grande por
-        materia nacional. Falta: número y fecha de esa sentencia, y desenlace de Santa Bernardina,
-        Carlos Reyles y Joanicó.
-[I] B1. Desenlace de la iniciativa popular de Maldonado 2017 (contribución inmobiliaria, Decreto
-        3.947). Busqué dos veces sin resultado; queda revisar actas de la Junta de Maldonado
-        2017-2018 y prensa local (Correo de Punta del Este, Maldonado Noticias).
-[I] B2. Fecha exacta del primer archivo de la propuesta de municipio "Este del arroyo Maldonado"
-        (27 votos en 29, un martes 11 de agosto; probablemente 2020).
-[I] B3. Campañas mineras 2012-2013 en Rivera, Lavalleja y Treinta y Tres: cuántas firmas reunieron y
-        si llegaron a presentarse.
-[I] B4. Relevar actas de las 19 Juntas Departamentales y de los 136 municipios para detectar
-        iniciativas locales de baja visibilidad (nomenclátor, juntas locales, tránsito) y usos de la
-        iniciativa ante el propio municipio (Ley 19.272 art. 16).
-[I] B5. Consultas populares no vinculantes convocadas por intendencias o juntas: no encontré casos;
-        confirmar si existen.
-[I] B6. Reconstruir los casos de referéndum departamental de 1988, 1996 (dos), 2006 (dos) y 2014
-        que sólo conocemos por sus números de sentencia (ver A2): prensa de la época, actas de las
-        Juntas, archivo de la Corte. Son al menos cinco intentos no registrados en la literatura.
+=============================================================================
+VITALES
+=============================================================================
 
------------------------------------------------------------------------------
-C. SEGUIMIENTO DE CASOS ABIERTOS (2026)
------------------------------------------------------------------------------
-[I] C1. Paysandú / HIF Global: resultado del recurso ante la Corte Electoral y de la reconsideración
-        pedida a la Junta (setiembre 2026).
-[I] C2. Empalme Olmos / planta de residuos: fecha de presentación de firmas a la Junta de Canelones,
-        validación por la Corte, pronunciamiento de la Junta (60 días) y eventual referéndum
-        circunscripto al municipio. También cómo se aplicó la Circular 12.430 a firmas ya reunidas.
-[I] C3. Durazno / flechado: si se presentaron las firmas y qué resolvió la Junta.
-[I] C4. Colonia: efectos de la sentencia de la SCJ del 27/8/2026 y si hay nuevas acciones.
+[U] V1. Cerrar el universo de casos. Hoy hay 22 activaciones identificadas (1927-2026), de las
+        cuales 6 se conocen sólo por el número de sentencia. Falta, para cada una: departamento,
+        año, materia, promotores, firmas presentadas/validadas, desenlace.
+        - 25.940 (11/7/1996): departamento y materia desconocidos.
+        - 26.926 y 26.927 (20/12/2006): departamento y materia desconocidos.
+        - 27.198 (11/3/2014, referéndum contra resolución de flechado): departamento desconocido.
+        - 24.369 (Flores 1988), 25.942 (Rocha 1996), 27.023 (Flores 2009): falta materia precisa,
+          promotores y firmas.
+        Fuente: base de sentencias de la Corte Electoral en IMPO (impo.com.uy/bases/sentencias-corte-
+        electoral/<número>-<año>) o pedido de acceso a la información a la Corte. Sin esto la
+        variable dependiente (activación) tiene N incierto.
 
------------------------------------------------------------------------------
-D. BIBLIOGRAFÍA (carpeta bibliografia/)
------------------------------------------------------------------------------
-[U] D1. Confirmar datos de las referencias marcadas [C] y [P] antes de citarlas (volumen, páginas,
-        autoría). Las marcadas [V] fueron verificadas por búsqueda en esta sesión.
-[U] D2. Descargar los PDF de las obras clave que no pude abrir: González Rissoto (2008), BCN Chile,
-        Walter y Urkidi (2017), Dietz (2018), Welp (2016), Schiller (2011), Arques (2014).
-[U] D3. Confirmar autoría de tres entradas: "De la fuerza de la ley al milagro de la acción" (RUCP
-        2019), "Entre el extractivismo y la defensa de la democracia" (RECERCA) y "Mecanismos de
-        democracia directa: ¿vía al ensanchamiento del Ejecutivo?" (RELADE).
-[U] D4. Confirmar existencia y datos del referéndum cantonal de Sardinal (Costa Rica) marcado [P].
-[U] D5. Confirmar el vacío de literatura: no identifiqué ningún estudio sistemático (monografía, tesis
-        o artículo) sobre democracia directa subnacional en Uruguay; sólo tratamiento incidental.
-        Verificar con búsqueda directa en Colibrí (Udelar), Timbó, repositorios de UCU y UM, y el
-        catálogo de publicaciones de la Corte Electoral, antes de afirmarlo en un texto formal.
+[I] V2. Desenlaces faltantes de casos ya identificados: Maldonado 2017 (contribución) y Ferrocarril
+        Central 2019-20 (Santa Bernardina, Carlos Reyles, Joanicó; sentencia sobre Sarandí Grande).
+        Sigo yo con prensa local y actas de Juntas; si no aparece, se consigna "sin desenlace
+        documentado" y se explica.
 
------------------------------------------------------------------------------
-E. DECISIONES
------------------------------------------------------------------------------
-[D] E1. Publicar el análisis como página web (artefacto) para compartirlo con colegas: lo ofrecí; sin
-        respuesta.
-[D] E2. Definir el formato final del trabajo (artículo, informe, capítulo) para ajustar extensión y
-        aparato de citas.
-[D] E3. Decidir si se incorporan al análisis los instrumentos limítrofes (art. 303, consultas no
-        vinculantes, presupuesto participativo) como sección propia o se dejan como deslinde.
-[D] E4. Decidir si la bibliografía se mantiene en fichas markdown o se migra a un gestor (Zotero /
-        BibTeX).
+[U] V3. Dos sentencias clave a texto completo: 27.193 (Tacuarembó 2013: nace la doctrina de
+        vigencia y el filtro de competencia) y 28.712 (Paysandú 2026: caso actual, control previo a
+        las firmas). Son las dos decisiones que estructuran la explicación de los desenlaces.
+        La 27.333 ya está.
 
------------------------------------------------------------------------------
-F. RESUELTOS
------------------------------------------------------------------------------
-[x] 2026-09-29. Fecha del plebiscito del vintén: 22 de julio de 1951 (fijada en el análisis).
-[x] 2026-09-29. Segunda actuación de la Corte en Colonia: identificada como Sentencia 27.351 del
-                21/9/2017 (contenido pendiente, ver A2).
-[x] 2026-09-29. Caso Empalme Olmos incorporado al análisis (sección 5.9).
-[x] 2026-09-29. Aclarado el punto "padrones por departamento" (ver A5).
-[x] 2026-09-29. Carpeta bibliografia/ creada con cinco archivos.
-[x] 2026-09-29. Sentencia 27.333 leída íntegra (36 págs.): sección 5.4 reescrita; el fallo fue por
-                mayoría (7-2, con tres discordias parciales), no unánime; la exclusión tributaria se
-                funda en la Sección XIV y en la Sentencia 24.369 de 1988, no en la analogía con el
-                art. 79; identificadas siete sentencias previas (1988-2014) no registradas.
-[x] 2026-09-29. Leídos Tealdi (2019), Correa Freitas (2020), la Sección XVI de la Constitución (Factum)
-                y El Telégrafo (set. 2026): incorporados los casos Flores 1988, Rocha 1996, Flores 2009
-                (casco), flechado 2014 y Ferrocarril Central 2019-20; doctrina completa sobre la
-                vigencia del art. 79; arts. 262-306 cotejados; recurso de reposición de Paysandú.
-[x] 2026-09-29. Ley 9.515 arts. 74-79 y Ley 19.272 arts. 5 y 16 cotejados con IMPO: corregidos el
-                inciso 3 del art. 76 (referéndum en la elección más próxima sin efecto suspensivo) y
-                la mayoría de dos tercios del art. 16.
+[U] V4. Padrón de habilitados por departamento (elección 2024 o 2025) y de los municipios con
+        iniciativa en curso (Empalme Olmos). Necesario para expresar el costo de entrada (15 % y
+        20 %) en firmas y compararlo con las firmas efectivamente reunidas en cada caso. Fuente:
+        catálogo de datos abiertos de la Corte Electoral (habilitados por circuito, agregable).
+
+[U] V5. Confirmar el vacío de literatura politológica sobre democracia directa subnacional en
+        Uruguay: búsqueda directa en Colibrí (Udelar), Timbó, repositorios de UCU y UM, Revista
+        Uruguaya de Ciencia Política y catálogo de la Corte Electoral. Es la justificación del
+        artículo.
+
+[I] V6. Seguimiento de los tres casos abiertos hasta la fecha de corte que fijes (ver D2):
+        Paysandú (reposición ante la Junta y recurso ante la Corte), Empalme Olmos (presentación,
+        validación, decisión de la Junta, eventual referéndum municipal), Durazno (flechado).
+
+=============================================================================
+DECISIONES (definen el artículo)
+=============================================================================
+
+[D] D1. Pregunta y marco teórico. Opciones que surgen del material:
+        (a) diseño institucional y activación: por qué un instituto de 1935 se usa tan poco y por qué
+            el uso se desplaza del referéndum (20 %, 40 días) a la iniciativa (15 %, sin plazo), en la
+            línea de Eder-Vatter-Freitag 2009 y Altman 2011;
+        (b) quién activa: oposición partidaria vs. movimientos territoriales, y con qué resultado, en
+            la línea de Antía y Vairo 2023 / Lissidini / Monestier, llevada al nivel subnacional;
+        (c) el órgano electoral como "gatekeeper" de la democracia directa: el filtro de competencia y
+            de materia como variable explicativa de los desenlaces, comparable con Colombia (SU-095)
+            y Ecuador (dictamen previo).
+        Se pueden combinar, pero conviene elegir un eje principal.
+[D] D2. Fecha de corte empírica (sugerencia: 30/9/2026 o cierre del caso Paysandú).
+[D] D3. Formato y destino: revista (RUCP, JPLA, Latin American Politics and Society, Revista
+        Latinoamericana de Política Comparada), extensión y sistema de citas.
+[D] D4. Tratamiento de los instrumentos limítrofes (art. 303, consultas no vinculantes): sólo
+        deslinde en una nota, o variable de "vía alternativa" en el análisis de desenlaces
+        (Tacuarembó 2014 muestra que importa).
+
+=============================================================================
+ARCHIVADOS (no vitales; se retoman sólo si sobra tiempo o lo pide un evaluador)
+=============================================================================
+
+- Circulares 5.664, 8.821, 10.840 (procedimiento de verificación). La 12.430 ya está documentada por
+  prensa.
+- Votos por Sí y por No del plebiscito del vintén (1951).
+- Ley 18.567, art. 16, texto original de 2009.
+- Contenido de la Sentencia 27.351 (Colonia, set. 2017).
+- Texto completo de Tealdi, "Restricciones al ejercicio de la democracia directa".
+- Doctrina en papel 1985-1996 (Esteva, Frugone, Sapolinski, Ruocco, Cagnoni): Tealdi 2019 y Correa
+  Freitas 2020 ya la resumen.
+- Intentos sugeridos por la doctrina en 1985 y 1993, sin sentencia identificada.
+- Campañas mineras 2012-13 en Rivera, Lavalleja y Treinta y Tres.
+- Fecha del primer archivo de "Este del arroyo Maldonado".
+- Relevamiento exhaustivo de actas de 19 Juntas y 136 municipios.
+- Consultas populares no vinculantes de intendencias.
+- Efectos de la sentencia de la SCJ (Colonia, 27/8/2026).
+- Verificación de fichas [C] y [P] de la bibliografía: se hace al preparar el envío.
+- Sardinal (Costa Rica).
+- Publicación web del análisis; migración de la bibliografía a Zotero/BibTeX.
+- Cotejo del art. 262 con IMPO (la copia de Factum tiene un error tipográfico menor).
+
+=============================================================================
+RESUELTOS
+=============================================================================
+[x] 2026-09-29. Fecha del plebiscito del vintén: 22/7/1951.
+[x] 2026-09-29. Segunda actuación de la Corte en Colonia identificada: Sentencia 27.351 (21/9/2017).
+[x] 2026-09-29. Caso Empalme Olmos incorporado (sección 5.9).
+[x] 2026-09-29. Aclarado el punto "padrones por departamento" (ahora V4).
+[x] 2026-09-29. Carpeta bibliografia/ creada.
+[x] 2026-09-29. Sentencia 27.333 leída íntegra; sección 5.4 reescrita; fallo por mayoría, no unánime.
+[x] 2026-09-29. Ley 9.515 arts. 74-79 y Ley 19.272 arts. 5 y 16 cotejados con IMPO.
+[x] 2026-09-29. Constitución arts. 262-306 cotejados (Factum). Anexo I completo.
+[x] 2026-09-29. Tealdi 2019 y Correa Freitas 2020 leídos: casos Flores 1988, Rocha 1996, Flores 2009,
+                flechado 2014 y Ferrocarril Central 2019-20 incorporados; mapa doctrinario completo.
+[x] 2026-09-29. Vacío de estudios sistemáticos registrado como hallazgo provisional (ahora V5).
+[x] 2026-09-29. Orientación disciplinaria fijada: artículo de ciencia política; lo normativo pasa a
+                contexto.
