@@ -1,6 +1,6 @@
 PENDIENTES
 Proyecto: democracia directa departamental y local en Uruguay
-Archivo vivo: se actualiza en cada intercambio. Última actualización: 2026-09-29.
+Archivo vivo: se actualiza en cada intercambio. Última actualización: 2026-09-29 (segunda revisión, tras lectura de la Sentencia 27.333 y de los textos legales).
 
 Convención: [U] pendiente que sólo vos podés resolver (acceso, decisión, lectura de fuentes bloqueadas para mí).
             [I] pendiente de investigación que puedo seguir yo si me lo pedís.
@@ -10,15 +10,24 @@ Convención: [U] pendiente que sólo vos podés resolver (acceso, decisión, lec
 -----------------------------------------------------------------------------
 A. VERIFICACIÓN DE FUENTES PRIMARIAS (no pude descargarlas: proxy bloqueado)
 -----------------------------------------------------------------------------
-[U] A1. Cotejar con IMPO los textos del Anexo I de docs/democracia-directa-departamental-uruguay.md:
-        Constitución arts. 303, 304, 305; Ley 9.515 arts. 74 a 79; Ley 19.272 art. 16.
-        En particular confirmar si el art. 304 inc. 1 dice "reglamentará" o "podrá establecer".
-[U] A2. Obtener el texto completo de las sentencias de la Corte Electoral:
-        - 27.333 (22/3/2017, Colonia) y 27.351 (21/9/2017, Colonia): confirmar que 27.351 resolvió
-          una impugnación de los promotores y con qué fundamentos.
-        - Resolución sobre Tacuarembó (octubre de 2013): número y fecha exacta.
+[U] A1. Cotejar con IMPO los arts. 262, 303, 304 y 305 de la Constitución: el PDF aportado llega
+        sólo hasta el art. 214. Pasar el PDF completo o las páginas de la Sección XVI. (La Ley 9.515
+        y la Ley 19.272 ya están cotejadas; el art. 304 está corroborado por las citas literales de
+        la Sentencia 27.333: "reglamentará".)
+[U] A2. Obtener el texto completo de las sentencias de la Corte Electoral que la 27.333 revela como
+        cadena jurisprudencial, e identificar departamento, decreto y promotores de cada una:
+        - 24.369 (julio de 1988; la sentencia la fecha una vez el 6 y otra el 16): exclusión de la
+          materia tributaria. Caso desconocido.
+        - 25.940 (11/7/1996) y 25.942 (3 o 31/7/1996): derogación de la Ley 9.515. Casos desconocidos.
+        - 26.926 y 26.927 (20/12/2006): reiteran la derogación. Casos desconocidos.
+        - 27.193 (23/10/2013): vigencia de la Ley 9.515; por fecha, debe ser Tacuarembó. Confirmar.
+        - 27.198 (11/3/2014): vigencia de la Ley 9.515. Caso desconocido (¿Lavalleja, Rivera, Treinta y
+          Tres, o una segunda instancia de Tacuarembó?).
+        - 27.351 (21/9/2017, Colonia): confirmar que resolvió una impugnación de los promotores.
         - 28.712 (Paysandú): confirmar fecha (la Junta la cita como 26/6/2026; la prensa la difundió
           el 21-22/7/2026).
+        Búsqueda sugerida para cada número: "<número>" site:impo.com.uy corte electoral, o la URL
+        impo.com.uy/bases/sentencias-corte-electoral/<número>-<año>.
 [U] A3. Obtener las circulares 5.664 (1986), 8.821 (2012), 10.840 (municipios 2020-2025) y 12.430
         (marzo 2026; confirmar si es del 10 o del 17 de marzo).
 [U] A4. Acta o informe de la Corte Electoral sobre el plebiscito del vintén (22/7/1951): cifras por
@@ -42,6 +51,9 @@ B. VACÍOS DE CASOS
         iniciativa ante el propio municipio (Ley 19.272 art. 16).
 [I] B5. Consultas populares no vinculantes convocadas por intendencias o juntas: no encontré casos;
         confirmar si existen.
+[I] B6. Reconstruir los casos de referéndum departamental de 1988, 1996 (dos), 2006 (dos) y 2014
+        que sólo conocemos por sus números de sentencia (ver A2): prensa de la época, actas de las
+        Juntas, archivo de la Corte. Son al menos cinco intentos no registrados en la literatura.
 
 -----------------------------------------------------------------------------
 C. SEGUIMIENTO DE CASOS ABIERTOS (2026)
@@ -91,3 +103,10 @@ F. RESUELTOS
 [x] 2026-09-29. Caso Empalme Olmos incorporado al análisis (sección 5.9).
 [x] 2026-09-29. Aclarado el punto "padrones por departamento" (ver A5).
 [x] 2026-09-29. Carpeta bibliografia/ creada con cinco archivos.
+[x] 2026-09-29. Sentencia 27.333 leída íntegra (36 págs.): sección 5.4 reescrita; el fallo fue por
+                mayoría (7-2, con tres discordias parciales), no unánime; la exclusión tributaria se
+                funda en la Sección XIV y en la Sentencia 24.369 de 1988, no en la analogía con el
+                art. 79; identificadas siete sentencias previas (1988-2014) no registradas.
+[x] 2026-09-29. Ley 9.515 arts. 74-79 y Ley 19.272 arts. 5 y 16 cotejados con IMPO: corregidos el
+                inciso 3 del art. 76 (referéndum en la elección más próxima sin efecto suspensivo) y
+                la mayoría de dos tercios del art. 16.

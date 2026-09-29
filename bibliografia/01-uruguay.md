@@ -115,6 +115,18 @@ Literatura, normativa, jurisprudencia electoral y fuentes de casos sobre democra
 
 38. **vLex.** "Artículo 303 Constitución (recurso apelación decretos municipales). Reglamentación". `[V]` https://uy.vlex.com/vid/articulo-303-constitucion-recurso-899434003
 
+38a. **Roucco, Graciela.** "El referéndum contra los decretos departamentales". `[C]` (citada por la Corte Electoral en la Sentencia 27.333; sede y año a confirmar)
+    Nota: sostiene la vigencia de los arts. 74-77 de la Ley 9.515 como reglamentación del art. 304; es la doctrina en que se apoyó la mayoría de la Corte en 2013, 2014 y 2017.
+
+38b. **Jiménez de Aréchaga, Justino.** *La Constitución Nacional*, tomo I. `[C]`
+    Nota: la cita sobre el cuerpo electoral como "órgano contenido por el derecho" (p. 158) es el cierre argumental de la Sentencia 27.333.
+
+38c. **Valdés Costa, Ramón (2016).** *Curso de Derecho Tributario*, 4.ª ed. `[C]`
+    Nota: clasificación tripartita de los tributos (art. 297) usada por la Corte para tratar tasa e impuesto como especies del mismo género.
+
+38d. **Reforma Constitucional de 1951**, tomo II, pp. 1064-1066 (discusión de la "Comisión de los Veinticinco", Cámara de Representantes). `[C]`
+    Nota: historia fidedigna del art. 304; el miembro informante consideró "indebida" la extensión de la iniciativa al departamento por la Ley 9.515 y explicó el inciso segundo.
+
 ## D. Normativa (referencias de acceso)
 
 39. Constitución, arts. 262, 303, 304, 305. https://www.impo.com.uy/bases/constitucion/1967-1967/304
@@ -127,7 +139,12 @@ Literatura, normativa, jurisprudencia electoral y fuentes de casos sobre democra
 
 ## E. Corte Electoral: sentencias, circulares, comunicados
 
-46. Sentencia 27.333 (22/3/2017) y Sentencia 27.351 (21/9/2017), recurso de referéndum contra el Decreto 034/2016 de la Junta Departamental de Colonia. Índice en vLex: https://uy.vlex.com/source/corte-electoral-republica-oriental-uruguay-47817 ; informe de la Comisión de Asuntos Electorales (21/3/2017): http://politica.uruguay30.com/wp-content/uploads/2017/03/FALLO-CORTE-ELECTORAL.pdf
+45a. **Cadena jurisprudencial sobre el referéndum departamental identificada en la Sentencia 27.333** (todas a obtener en IMPO, base de sentencias de la Corte Electoral):
+    - Sentencia 24.369 (julio de 1988): exclusión de los decretos hacendísticos, tributarios y presupuestales del art. 304.
+    - Sentencias 25.940 (11/7/1996) y 25.942 (julio de 1996): la Ley 9.515 fue derogada por la Constitución de 1952; el art. 304 no admite exclusiones por materia (25.940).
+    - Sentencias 26.926 y 26.927 (20/12/2006): reiteran la derogación.
+    - Sentencias 27.193 (23/10/2013, probablemente Tacuarembó) y 27.198 (11/3/2014): por mayoría, vigencia de los arts. 74-77 de la Ley 9.515.
+46. Sentencia 27.333 (22/3/2017) y Sentencia 27.351 (21/9/2017), recurso de referéndum contra el Decreto 034/2016 de la Junta Departamental de Colonia. Texto íntegro de la 27.333 (36 páginas, escaneado) disponible en el proyecto; analizada en la sección 5.4 del documento principal. Índice en vLex: https://uy.vlex.com/source/corte-electoral-republica-oriental-uruguay-47817 ; informe de la Comisión de Asuntos Electorales (21/3/2017): http://politica.uruguay30.com/wp-content/uploads/2017/03/FALLO-CORTE-ELECTORAL.pdf
 47. Resolución sobre la iniciativa de Tacuarembó (2013). Sin número identificado; ver prensa en `01-uruguay.md` F.
 48. Sentencia 28.712 (26/6/2026), iniciativa legislativa departamental de Paysandú. Sin enlace oficial identificado; ver prensa.
 49. Comunicado "Verificación de firmas: iniciativa popular en el departamento de Maldonado" (enero de 2025). https://www.gub.uy/corte-electoral/comunicacion/comunicados/verificacion-firmas-iniciativa-popular-departamento-maldonado
