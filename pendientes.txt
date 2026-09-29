@@ -65,6 +65,10 @@ D. BIBLIOGRAFÍA (carpeta bibliografia/)
         2019), "Entre el extractivismo y la defensa de la democracia" (RECERCA) y "Mecanismos de
         democracia directa: ¿vía al ensanchamiento del Ejecutivo?" (RELADE).
 [U] D4. Confirmar existencia y datos del referéndum cantonal de Sardinal (Costa Rica) marcado [P].
+[U] D5. Confirmar el vacío de literatura: no identifiqué ningún estudio sistemático (monografía, tesis
+        o artículo) sobre democracia directa subnacional en Uruguay; sólo tratamiento incidental.
+        Verificar con búsqueda directa en Colibrí (Udelar), Timbó, repositorios de UCU y UM, y el
+        catálogo de publicaciones de la Corte Electoral, antes de afirmarlo en un texto formal.
 
 -----------------------------------------------------------------------------
 E. DECISIONES
