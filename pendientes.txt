@@ -1,7 +1,6 @@
 PENDIENTES
 Proyecto: democracia directa subnacional en Uruguay. Producto final: artículo de ciencia política.
-Archivo vivo. Última actualización: 2026-09-29 (cuarta revisión: depuración a pendientes vitales;
-orientación disciplinaria fijada en ciencia política).
+Archivo vivo. Última actualización: 2026-09-29 (quinta revisión: seis sentencias integradas; V3 y V5 resueltos).
 
 Convención: [U] sólo vos podés resolverlo. [I] puedo seguirlo yo si me lo pedís. [D] decisión tuya.
             [x] resuelto.
@@ -15,41 +14,28 @@ jurídico pasa a ser contexto, no objeto.
 VITALES
 =============================================================================
 
-[U] V1. Cerrar el universo de casos. Hoy hay 22 activaciones identificadas (1927-2026), de las
-        cuales 6 se conocen sólo por el número de sentencia. Falta, para cada una: departamento,
-        año, materia, promotores, firmas presentadas/validadas, desenlace.
-        - 25.940 (11/7/1996): departamento y materia desconocidos.
-        - 26.926 y 26.927 (20/12/2006): departamento y materia desconocidos.
-        - 27.198 (11/3/2014, referéndum contra resolución de flechado): departamento desconocido.
-        - 24.369 (Flores 1988), 25.942 (Rocha 1996), 27.023 (Flores 2009): falta materia precisa,
-          promotores y firmas.
-        Fuente: base de sentencias de la Corte Electoral en IMPO (impo.com.uy/bases/sentencias-corte-
-        electoral/<número>-<año>) o pedido de acceso a la información a la Corte. Sin esto la
-        variable dependiente (activación) tiene N incierto.
+[U] V1. Cerrar el universo de casos. Con las seis sentencias leídas (26.926, 26.927, 27.023, 27.193,
+        27.198, 28.712) quedan sólo tres huecos:
+        - 25.940 (11/7/1996): departamento, materia y promotores desconocidos.
+        - 25.942 (31/7/1996, Rocha) y 24.369 (6/7/1988, Flores): faltan el decreto exacto, los
+          promotores y las firmas (de Flores ya sabemos: suba de contribución, tasas y patentes;
+          referéndum promovido por el 15 %; el Intendente lo rechazó y los promotores recurrieron).
+        - 28.217 (2020): sentencia citada por la asesora de la Junta de Paysandú como precedente.
+          Probablemente es la de las iniciativas contra el Ferrocarril Central (Sarandí Grande).
+          URL probable: impo.com.uy/bases/sentencias-corte-electoral/28217-2020
 
 [I] V2. Desenlaces faltantes de casos ya identificados: Maldonado 2017 (contribución) y Ferrocarril
         Central 2019-20 (Santa Bernardina, Carlos Reyles, Joanicó; sentencia sobre Sarandí Grande).
         Sigo yo con prensa local y actas de Juntas; si no aparece, se consigna "sin desenlace
         documentado" y se explica.
 
-[U] V3. Dos sentencias clave a texto completo: 27.193 (Tacuarembó 2013: nace la doctrina de
-        vigencia y el filtro de competencia) y 28.712 (Paysandú 2026: caso actual, control previo a
-        las firmas). Son las dos decisiones que estructuran la explicación de los desenlaces.
-        La 27.333 ya está.
-
 [U] V4. Padrón de habilitados por departamento (elección 2024 o 2025) y de los municipios con
         iniciativa en curso (Empalme Olmos). Necesario para expresar el costo de entrada (15 % y
         20 %) en firmas y compararlo con las firmas efectivamente reunidas en cada caso. Fuente:
         catálogo de datos abiertos de la Corte Electoral (habilitados por circuito, agregable).
 
-[U] V5. Confirmar el vacío de literatura politológica sobre democracia directa subnacional en
-        Uruguay: búsqueda directa en Colibrí (Udelar), Timbó, repositorios de UCU y UM, Revista
-        Uruguaya de Ciencia Política y catálogo de la Corte Electoral. Es la justificación del
-        artículo.
-
-[I] V6. Seguimiento de los tres casos abiertos hasta la fecha de corte que fijes (ver D2):
-        Paysandú (reposición ante la Junta y recurso ante la Corte), Empalme Olmos (presentación,
-        validación, decisión de la Junta, eventual referéndum municipal), Durazno (flechado).
+[I] V6. Casos abiertos (Paysandú, Empalme Olmos, Durazno): quedan consignados como "en curso" a la
+        fecha de corte; no se hace seguimiento activo salvo que lo pidas.
 
 =============================================================================
 DECISIONES (definen el artículo)
@@ -111,3 +97,8 @@ RESUELTOS
 [x] 2026-09-29. Vacío de estudios sistemáticos registrado como hallazgo provisional (ahora V5).
 [x] 2026-09-29. Orientación disciplinaria fijada: artículo de ciencia política; lo normativo pasa a
                 contexto.
+[x] 2026-09-29. V3 resuelto: Sentencias 27.193 y 28.712 leídas íntegras, más 26.926, 26.927, 27.023 y
+                27.198. Identificados Cerro Largo 2006, Colonia 2006, Flores 2009 y Chuy 2014; datos
+                de firmas y padrón de Tacuarembó 2013 y Chuy 2014.
+[x] 2026-09-29. V5 confirmado por el autor: no hay estudio politológico previo sobre democracia
+                directa subnacional en Uruguay.
