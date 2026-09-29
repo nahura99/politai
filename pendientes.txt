@@ -47,9 +47,9 @@ Antes del envío (30/9/2026, politai@pucp.edu.pe, asunto "Convocatoria Revista P
 [U] E2. Pasar el .txt a Word (Times New Roman 12, interlineado 1,5, A4) y mover Tabla 1, Tabla 2 y el
         mapa a un archivo Excel aparte, como exige la convocatoria. El cuerpo baja entonces a ~6.900
         palabras: hay margen para ampliar si querés.
-[U] E3. Mapa: el del borrador es un esquema en texto. La versión final debe ser un coroplético (INE,
-        shapefile de departamentos) con la cuenta de activaciones por departamento; si no se hace,
-        dejar sólo la Tabla 2.
+[~] E3. Mapa: hecho el coroplético (docs/figuras/mapa1-activaciones.png y .svg, 300 dpi) con límites
+        de Natural Earth 1:10m; rayado para departamentos con activaciones sólo locales. Queda a tu
+        criterio reemplazar la base cartográfica por la del INE (el script rehace el mapa en segundos).
 [U] E4. Autoría, filiación y datos de contacto (máximo dos autores).
 [I] E5. Verificar las entradas [C] y [P] de la bibliografía que quedaron citadas en el artículo (Altman
         2011/2019, Eder, Vatter y Freitag 2009, Lissidini 2015, Antía y Vairo 2023, Monestier, Welp,
@@ -136,5 +136,6 @@ RESUELTOS
 [x] 2026-09-29. V5 confirmado por el autor: no hay estudio politológico previo sobre democracia
                 directa subnacional en Uruguay.
 [x] 2026-09-29. Convocatoria Politai N.º 29 leída y archivada en fuentes/ (D3).
+[x] 2026-09-29. Mapa 1 coroplético generado en PNG y SVG (docs/figuras/).
 [x] 2026-09-29. Borrador completo del artículo redactado (docs/articulo-politai-29.txt) y base de datos
                 de casos exportada a CSV (datos/). Resumen y abstract ajustados al rango 300-350.
