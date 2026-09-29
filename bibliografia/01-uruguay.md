@@ -1,0 +1,143 @@
+# 01. Uruguay
+
+Literatura, normativa, jurisprudencia electoral y fuentes de casos sobre democracia directa departamental y local en Uruguay. Las fuentes nacionales se incluyen sólo cuando son indispensables como marco. Convenciones: ver `README.md`.
+
+## A. Ciencia política y sociología política
+
+1. **Lissidini, Alicia (1998).** "Las paradojas de la democracia directa. Plebiscitos y referendos en el Uruguay (1917-1994)". `[V]` https://www.academia.edu/31578905/
+   Eje: ADOPCIÓN, ACTIVACIÓN. Nivel: nacional, con antecedentes de 1917-1934 que incluyen la iniciativa local de 1918. Nota: sostiene que la democracia directa uruguaya nace del sistema de partidos y no de una crisis de representación.
+
+2. **Lissidini, Alicia (2008).** "Uruguay: A prodigious user of direct democracy mechanisms". *C2D Working Paper Series*, Universidad de Zúrich. `[V]` https://www.researchgate.net/publication/279259383
+   Eje: ACTIVACIÓN. Nota: menciona la iniciativa local del 25 % de 1918 y la reforma de 1966 que habilitó iniciativas y referéndums nacionales y departamentales.
+
+3. **Lissidini, Alicia (2015).** "Democracia directa en América Latina: avances y contradicciones". Nueva Sociedad. `[V]` https://static.nuso.org/media/documents/Articulo_ALICIA_LISSIDINI.pdf
+   Eje: ACTIVACIÓN, DESENLACE.
+
+4. **Lissidini, Alicia (2020).** "Democracia directa en Uruguay: apertura de agenda con restricciones". En Tuesta Soldevilla, Fernando y Welp, Yanina (coords.), *El diablo está en los detalles: referéndum y poder político en América Latina*. PUCP. `[C]`
+   Eje: ACTIVACIÓN, DESENLACE.
+
+5. **Lissidini, Alicia (2021/2022).** "Democracia directa contra déficit democrático: el caso uruguayo". *RECERCA. Revista de Pensament i Anàlisi*. `[V]` https://www.e-revistes.uji.es/index.php/recerca/article/view/5600
+   Eje: DESENLACE.
+
+6. **Lissidini, Alicia.** "Democracia directa y movilización social: lo que nos muestra Uruguay". *Nueva Sociedad*. `[V]` https://nuso.org/articulo/democracia-directa-movilizacion-social-lo-que-nos-muestra-uruguay/
+   Eje: ACTIVACIÓN.
+
+7. **Altman, David (2002).** "Popular Initiatives in Uruguay: Confidence Votes on Government or Political Loyalties?". *Electoral Studies* 21(4): 617-630. `[V]` https://www.sciencedirect.com/science/article/abs/pii/S0261379401000361
+   Eje: DESENLACE. Nivel: nacional. Nota: el voto en referéndum como voto de confianza partidaria; hipótesis trasladable a Colonia 2017 y Maldonado 2017.
+
+8. **Moreira, Constanza (2004).** "Resistencia política y ciudadanía: plebiscitos y referéndums en el Uruguay de los 90". *América Latina Hoy* 36: 17-45. `[V]` https://revistas.usal.es/cuatro/index.php/1130-2887/article/download/7411/7428/26384
+   Eje: ACTIVACIÓN.
+
+9. **Monestier, Felipe (2007).** *Movimientos sociales, partidos políticos y democracia directa "desde abajo" en Uruguay (1985-2004)*. CLACSO. `[V]` https://biblioteca.clacso.edu.ar/clacso/becas/20120417045129/monestier.pdf
+   Eje: ACTIVACIÓN. Nota: el papel de sindicatos y movimientos en la recolección de firmas; marco para analizar los promotores departamentales (comisiones pro referéndum, redes ambientales).
+
+10. **Antía, Florencia y Vairo, Daniela (2023).** "Direct Democracy in the Hands of the Opposition Under Alternating Ideological Coalitions in Uruguay (1985-2022)". *Journal of Politics in Latin America*. `[V]` https://doi.org/10.1177/1866802X231183454
+    Eje: ACTIVACIÓN. Nivel: nacional. Nota: la democracia directa como punto de veto de la oposición; la hipótesis explica Colonia y Maldonado 2017 (FA contra intendentes del PN).
+
+11. **González Rissoto, Rodolfo (2008).** "La democracia directa en Uruguay". *Revista de Derecho Electoral* (TSE Costa Rica) 6. `[V]` https://dialnet.unirioja.es/servlet/articulo?codigo=3711929
+    Eje: ADOPCIÓN. Nota: ex ministro de la Corte Electoral; reconstruye la genealogía 1918-1934-1935-1952-1967 y califica el referéndum departamental de "revocatorio o abrogatorio".
+
+12. **Urruty Navatta, Carlos Alberto (2007).** "El régimen electoral uruguayo". *Revista de Derecho Electoral* (TSE Costa Rica) 4. `[V]` https://dialnet.unirioja.es/servlet/articulo?codigo=3988145
+    Eje: ADOPCIÓN.
+
+13. **Bottinelli, Óscar (2019).** "Los plebiscitos originales". Factum. `[V]` https://portal.factum.uy/analisis/2019/ana190531.php
+    Eje: ACTIVACIÓN, DESENLACE. Nota: Cerro Chato 1927 y plebiscito del vintén 1951.
+
+14. **Bottinelli, Óscar (2021).** "Democracia directa en Uruguay". Factum. `[V]` https://portal.factum.uy/analisis/2021/ana210814.php
+
+15. **Biblioteca del Congreso Nacional de Chile.** "Referéndum, plebiscito y consulta popular en Uruguay". `[V]` https://obtienearchivo.bcn.cl/obtienearchivo?id=repositorio/10221/28313/1/Referendum__plebiscito_y_consulta_popular_en_Uruguay_Rev_BH.pdf
+    Eje: ADOPCIÓN. Nota: síntesis normativa para legisladores chilenos; incluye el nivel departamental.
+
+16. **"Derechos de ciudadanía y democracia directa en Uruguay de los 90".** *Andamios* (2018). `[V]` https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-00632018000200237
+    Eje: ACTIVACIÓN. Nota: autoría por confirmar en el texto.
+
+## B. Descentralización, municipios y participación (contexto institucional)
+
+17. **Cardarello, Antonio y Freigedo, Martín (coords.) (2010).** *Cambios, certezas e incertidumbres. Elecciones Departamentales y Municipales 2010*. Congreso de Intendentes / OPP / ICP-FCS. `[V]` https://otu.opp.gub.uy/sites/default/files/docsBiblioteca/Elecciones_Departamentales_Municipales_2010-libre.pdf
+    Eje: ADOPCIÓN. Nota: primera evaluación del tercer nivel de gobierno.
+
+18. **Magri, Altaïr (2010).** "Descentralización municipal en Uruguay: el estreno de un nivel de gobierno que no entusiasmó a la ciudadanía". *Revista Iberoamericana de Estudios Municipales* 2. `[C]`
+    Eje: ADOPCIÓN, DESENLACE.
+
+19. **Oroño, Abel (2010).** *Los municipios en marcha. La descentralización local y los desafíos de su implementación*. Fundación Friedrich Ebert Uruguay. `[C]`
+    Eje: ADOPCIÓN.
+
+20. **Freigedo, Martín y Milanesi, Alejandro (2019?).** "De la fuerza de la ley al milagro de la acción. Municipios y participación ciudadana en Uruguay". *Revista Uruguaya de Ciencia Política* 28(2). `[V]` (título y revista) / `[C]` (autoría) http://www.scielo.edu.uy/scielo.php?script=sci_arttext&pid=S2301-06652019000202106
+    Eje: DESENLACE. Nota: qué mecanismos de participación de las Leyes 18.567/19.272 se usan efectivamente.
+
+21. **"Invirtiendo la secuencia: el proceso de descentralización uruguayo bajo gobiernos de izquierda (2005-2015)".** *Revista Iberoamericana de Estudios Municipales*. `[V]` https://revistas.uautonoma.cl/index.php/riem/en/article/view/335
+    Eje: ADOPCIÓN.
+
+22. **Freigedo, Martín (2026).** "Decentralisation in Montevideo: The Effects of Inequality and Party Mobilisation on Electoral Participation at the Territorial Level". *Bulletin of Latin American Research*. `[V]` https://onlinelibrary.wiley.com/doi/10.1111/blar.70042
+    Eje: DESENLACE.
+
+23. **Serdült, Uwe y Welp, Yanina (2015).** "How Sustainable Is Democratic Innovation? Tracking Neighborhood Councils in Montevideo". *Journal of Politics in Latin America* 7(2): 131-148. `[V]` https://journals.sagepub.com/doi/full/10.1177/1866802X1500700205
+    Eje: DESENLACE. Nota: contraste: la participación en concejos vecinales declina; no hay en Montevideo un mecanismo de decisión directa por voto.
+
+24. **Ferla, Paula; Marzuca, Alejandra; Veneziano, Alicia y Welp, Yanina (2012).** *Descentralización y participación democrática en Montevideo: los Concejos Vecinales y un aporte sobre la cuestión metropolitana*. Defensoría del Vecino de Montevideo. `[V]` https://www.researchgate.net/publication/299564722
+    Eje: DESENLACE.
+
+25. **Ferla, Paula; Marzuca, Alejandra; Serdült, Uwe y Welp, Yanina (2014).** "Corriendo de atrás. Análisis de los concejos vecinales de Montevideo". *Íconos* 48. `[V]`
+
+26. **Welp, Yanina y Schneider, Cecilia (2011).** "Orígenes y contradicciones de la participación ciudadana institucional. Análisis de las experiencias de Buenos Aires, Montevideo, Barcelona y Zúrich". *Revista Mexicana de Ciencias Políticas y Sociales* 211. `[C]`
+    Eje: ADOPCIÓN.
+
+27. **Welp, Yanina y Schneider, Cecilia (2015).** "Diseños institucionales y (des)equilibrios de poder: las instituciones de participación ciudadana en disputa". *Revista Mexicana de Ciencias Políticas y Sociales* 60(224). `[V]` https://doi.org/10.1016/S0185-1918(15)30002-7
+    Eje: ADOPCIÓN, DESENLACE. Nota: contiene la observación de que Montevideo carece de mecanismo de decisión directa por votación.
+
+28. **OPP, Observatorio Territorio Uruguay.** "Análisis legislativo sobre la descentralización en materia departamental". `[V]` https://otu.opp.gub.uy/sites/default/files/docsBiblioteca/05_Legislativo.pdf
+
+29. **OPP.** "Descentralización: la agenda pendiente". `[V]` https://otu.opp.gub.uy/gestor/imagesbiblioteca/026f8688d984de3f6a399846597d27d0a93b4afb.pdf
+
+30. **Fernández Ibarra, Ilda (2024?).** *Descentralización y participación ciudadana. Un estudio en municipios de Rocha y Lavalleja (2020-2024)*. Tesis de Maestría en Trabajo Social, Udelar. `[V]` https://www.colibri.udelar.edu.uy/jspui/bitstream/20.500.12008/53720/5/TMTS_Fern%C3%A1ndezIbarraIlda.pdf
+    Eje: DESENLACE.
+
+## C. Doctrina jurídica
+
+31. **Cassinelli Muñoz, Horacio.** *Derecho Público*. FCU (varias ediciones). `[C]`
+    Nota: sección sobre gobierno departamental y arts. 303-305; noción de decreto departamental como ley en sentido material, base del razonamiento de la Corte Electoral en Colonia 2017.
+
+32. **Korzeniak, José.** *Primer curso de Derecho Público. Derecho Constitucional*. FCU. `[C]`
+    Nota: el autor integra la Corte Electoral que dictó la Sentencia 28.712 (Paysandú, 2026).
+
+33. **Risso Ferrand, Martín.** *Derecho Constitucional*, Tomo I. FCU. `[C]`
+
+34. **Correa Freitas, Rubén.** "La inconstitucionalidad de los actos legislativos en el Uruguay". `[V]` https://eva.fder.udelar.edu.uy/pluginfile.php/562583/mod_resource/content/0/Correa%20Freitas%20-%20La%20Inconstitucionalidad%20de%20los%20actos%20legislativos.pdf
+    Nota: decretos departamentales como actos legislativos.
+
+35. **Gros Espiell, Héctor.** "Regulación jurídica de los partidos políticos en Uruguay". `[V]` https://pdba.georgetown.edu/Parties/Uruguay/Leyes/regulacionjuridica.pdf
+
+36. **Fernández Perrone.** "Regularidad constitucional de la actual contribución inmobiliaria urbana de Montevideo (Decreto 32.265)". *Revista de Derecho de la Universidad de Montevideo*. `[V]` https://revistaderecho.um.edu.uy/wp-content/uploads/2012/12/Fernandez-Perrone-Regularidad-constitucional-de-la-actual-contribucion-inmobiliaria-urbana-de-Montevideo-Decreto-n-32.265-de-la-Junta-Departamental-de-Montevideo.pdf
+    Nota: naturaleza de los decretos tributarios departamentales.
+
+37. **"Ley de Patentes de Rodados: ¿avance o retroceso?".** *Revista de Derecho* (UCU). `[V]` https://revistas.ucu.edu.uy/index.php/revistadederecho/article/download/804/798/3112
+    Nota: interpretación de "decretados y administrados" del art. 297 por la SCJ.
+
+38. **vLex.** "Artículo 303 Constitución (recurso apelación decretos municipales). Reglamentación". `[V]` https://uy.vlex.com/vid/articulo-303-constitucion-recurso-899434003
+
+## D. Normativa (referencias de acceso)
+
+39. Constitución, arts. 262, 303, 304, 305. https://www.impo.com.uy/bases/constitucion/1967-1967/304
+40. Ley 9.515 (1935), arts. 74-79. https://www.impo.com.uy/bases/leyes/9515-1935 ; PDF: https://www.juntadecanelones.gub.uy/documentos/legislativo/Ley_9515.pdf
+41. Ley 18.567 (2009), art. 16. https://www.impo.com.uy/bases/leyes-originales/18567-2009
+42. Ley 18.644 (2010) y Ley 18.653 (2010), modificativas. https://docs.uruguay.justia.com/nacionales/leyes/ley-18644-feb-12-2010.pdf ; https://docs.uruguay.justia.com/nacionales/leyes/ley-18653-mar-15-2010.pdf
+43. Ley 19.272 (2014), art. 16. https://www.impo.com.uy/bases/leyes/19272-2014
+44. Digesto Departamental de Montevideo, transcripción de Ley 9.515 y Ley 19.272. https://normativa.montevideo.gub.uy/articulos/86344 ; https://normativa.montevideo.gub.uy/content/a214-0
+45. Constituciones históricas (Biblioteca Virtual Miguel de Cervantes): 1918, 1934, 1942, 1952. https://www.cervantesvirtual.com/obra-visor/constitucion-de-1918/html/ede0ff47-9171-4208-988f-ff320585a241_2.html
+
+## E. Corte Electoral: sentencias, circulares, comunicados
+
+46. Sentencia 27.333 (22/3/2017) y Sentencia 27.351 (21/9/2017), recurso de referéndum contra el Decreto 034/2016 de la Junta Departamental de Colonia. Índice en vLex: https://uy.vlex.com/source/corte-electoral-republica-oriental-uruguay-47817 ; informe de la Comisión de Asuntos Electorales (21/3/2017): http://politica.uruguay30.com/wp-content/uploads/2017/03/FALLO-CORTE-ELECTORAL.pdf
+47. Resolución sobre la iniciativa de Tacuarembó (2013). Sin número identificado; ver prensa en `01-uruguay.md` F.
+48. Sentencia 28.712 (26/6/2026), iniciativa legislativa departamental de Paysandú. Sin enlace oficial identificado; ver prensa.
+49. Comunicado "Verificación de firmas: iniciativa popular en el departamento de Maldonado" (enero de 2025). https://www.gub.uy/corte-electoral/comunicacion/comunicados/verificacion-firmas-iniciativa-popular-departamento-maldonado
+50. Publicación "1952: El plebiscito del vintén". https://www.gub.uy/corte-electoral/comunicacion/publicaciones/1952-plebiscito-del-vinten
+51. Circular 5.664 (28/7/1986), verificación de firmas de iniciativas. `[C]`
+52. Circular 8.821 (30/4/2012). https://www.impo.com.uy/bases/circulares-corte-electoral/8821-2012
+53. Circular 10.840 (municipios 2020-2025; Rincón como único creado por iniciativa popular). `[C]`
+54. Circular 12.430 (marzo de 2026), huella dactilar y papeleta individual. Prensa: https://www.subrayado.com.uy/corte-electoral-sumo-la-huella-dactilar-requisitos-adherir-iniciativas-democracia-directa-como-plebiscitos-n1010597
+55. Base de sentencias y circulares de la Corte Electoral en IMPO. https://www.impo.com.uy/bases/sentencias-corte-electoral/ ; https://www.impo.com.uy/bases/circulares-corte-electoral/
+
+## F. Fuentes de los casos (prensa y documentos)
+
+Ver la sección 9 de `docs/democracia-directa-departamental-uruguay.md`, que lista las fuentes de cada caso: Cerro Chato 1927, Montevideo 1951, Tacuarembó 2012-2014, Colonia 2017-2026, Maldonado 2017, municipios por iniciativa (Rincón, Zapicán, Pirarajá, Este del arroyo Maldonado), Punta Ballena 2024-2025, Empalme Olmos 2025-2026, Paysandú 2026, Durazno 2026.

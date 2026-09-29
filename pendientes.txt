@@ -1,0 +1,89 @@
+PENDIENTES
+Proyecto: democracia directa departamental y local en Uruguay
+Archivo vivo: se actualiza en cada intercambio. Última actualización: 2026-09-29.
+
+Convención: [U] pendiente que sólo vos podés resolver (acceso, decisión, lectura de fuentes bloqueadas para mí).
+            [I] pendiente de investigación que puedo seguir yo si me lo pedís.
+            [D] decisión que tenés que tomar.
+            [x] resuelto (se conserva con fecha).
+
+-----------------------------------------------------------------------------
+A. VERIFICACIÓN DE FUENTES PRIMARIAS (no pude descargarlas: proxy bloqueado)
+-----------------------------------------------------------------------------
+[U] A1. Cotejar con IMPO los textos del Anexo I de docs/democracia-directa-departamental-uruguay.md:
+        Constitución arts. 303, 304, 305; Ley 9.515 arts. 74 a 79; Ley 19.272 art. 16.
+        En particular confirmar si el art. 304 inc. 1 dice "reglamentará" o "podrá establecer".
+[U] A2. Obtener el texto completo de las sentencias de la Corte Electoral:
+        - 27.333 (22/3/2017, Colonia) y 27.351 (21/9/2017, Colonia): confirmar que 27.351 resolvió
+          una impugnación de los promotores y con qué fundamentos.
+        - Resolución sobre Tacuarembó (octubre de 2013): número y fecha exacta.
+        - 28.712 (Paysandú): confirmar fecha (la Junta la cita como 26/6/2026; la prensa la difundió
+          el 21-22/7/2026).
+[U] A3. Obtener las circulares 5.664 (1986), 8.821 (2012), 10.840 (municipios 2020-2025) y 12.430
+        (marzo 2026; confirmar si es del 10 o del 17 de marzo).
+[U] A4. Acta o informe de la Corte Electoral sobre el plebiscito del vintén (22/7/1951): cifras por
+        Sí y por No (las fuentes sólo dan 117.649 votantes).
+[U] A5. Padrón de habilitados por departamento (2024-2025) y del Municipio de Empalme Olmos, para
+        completar la tabla de umbrales (sección 4.5 del análisis). Sólo tengo Maldonado (153.234).
+        Fuente sugerida: catálogo de datos abiertos de la Corte Electoral (habilitados por circuito).
+
+-----------------------------------------------------------------------------
+B. VACÍOS DE CASOS
+-----------------------------------------------------------------------------
+[I] B1. Desenlace de la iniciativa popular de Maldonado 2017 (contribución inmobiliaria, Decreto
+        3.947). Busqué dos veces sin resultado; queda revisar actas de la Junta de Maldonado
+        2017-2018 y prensa local (Correo de Punta del Este, Maldonado Noticias).
+[I] B2. Fecha exacta del primer archivo de la propuesta de municipio "Este del arroyo Maldonado"
+        (27 votos en 29, un martes 11 de agosto; probablemente 2020).
+[I] B3. Campañas mineras 2012-2013 en Rivera, Lavalleja y Treinta y Tres: cuántas firmas reunieron y
+        si llegaron a presentarse.
+[I] B4. Relevar actas de las 19 Juntas Departamentales y de los 136 municipios para detectar
+        iniciativas locales de baja visibilidad (nomenclátor, juntas locales, tránsito) y usos de la
+        iniciativa ante el propio municipio (Ley 19.272 art. 16).
+[I] B5. Consultas populares no vinculantes convocadas por intendencias o juntas: no encontré casos;
+        confirmar si existen.
+
+-----------------------------------------------------------------------------
+C. SEGUIMIENTO DE CASOS ABIERTOS (2026)
+-----------------------------------------------------------------------------
+[I] C1. Paysandú / HIF Global: resultado del recurso ante la Corte Electoral y de la reconsideración
+        pedida a la Junta (setiembre 2026).
+[I] C2. Empalme Olmos / planta de residuos: fecha de presentación de firmas a la Junta de Canelones,
+        validación por la Corte, pronunciamiento de la Junta (60 días) y eventual referéndum
+        circunscripto al municipio. También cómo se aplicó la Circular 12.430 a firmas ya reunidas.
+[I] C3. Durazno / flechado: si se presentaron las firmas y qué resolvió la Junta.
+[I] C4. Colonia: efectos de la sentencia de la SCJ del 27/8/2026 y si hay nuevas acciones.
+
+-----------------------------------------------------------------------------
+D. BIBLIOGRAFÍA (carpeta bibliografia/)
+-----------------------------------------------------------------------------
+[U] D1. Confirmar datos de las referencias marcadas [C] y [P] antes de citarlas (volumen, páginas,
+        autoría). Las marcadas [V] fueron verificadas por búsqueda en esta sesión.
+[U] D2. Descargar los PDF de las obras clave que no pude abrir: González Rissoto (2008), BCN Chile,
+        Walter y Urkidi (2017), Dietz (2018), Welp (2016), Schiller (2011), Arques (2014).
+[U] D3. Confirmar autoría de tres entradas: "De la fuerza de la ley al milagro de la acción" (RUCP
+        2019), "Entre el extractivismo y la defensa de la democracia" (RECERCA) y "Mecanismos de
+        democracia directa: ¿vía al ensanchamiento del Ejecutivo?" (RELADE).
+[U] D4. Confirmar existencia y datos del referéndum cantonal de Sardinal (Costa Rica) marcado [P].
+
+-----------------------------------------------------------------------------
+E. DECISIONES
+-----------------------------------------------------------------------------
+[D] E1. Publicar el análisis como página web (artefacto) para compartirlo con colegas: lo ofrecí; sin
+        respuesta.
+[D] E2. Definir el formato final del trabajo (artículo, informe, capítulo) para ajustar extensión y
+        aparato de citas.
+[D] E3. Decidir si se incorporan al análisis los instrumentos limítrofes (art. 303, consultas no
+        vinculantes, presupuesto participativo) como sección propia o se dejan como deslinde.
+[D] E4. Decidir si la bibliografía se mantiene en fichas markdown o se migra a un gestor (Zotero /
+        BibTeX).
+
+-----------------------------------------------------------------------------
+F. RESUELTOS
+-----------------------------------------------------------------------------
+[x] 2026-09-29. Fecha del plebiscito del vintén: 22 de julio de 1951 (fijada en el análisis).
+[x] 2026-09-29. Segunda actuación de la Corte en Colonia: identificada como Sentencia 27.351 del
+                21/9/2017 (contenido pendiente, ver A2).
+[x] 2026-09-29. Caso Empalme Olmos incorporado al análisis (sección 5.9).
+[x] 2026-09-29. Aclarado el punto "padrones por departamento" (ver A5).
+[x] 2026-09-29. Carpeta bibliografia/ creada con cinco archivos.
