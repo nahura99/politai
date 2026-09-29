@@ -1,6 +1,6 @@
 PENDIENTES
 Proyecto: democracia directa subnacional en Uruguay. Producto final: artículo de ciencia política.
-Archivo vivo. Última actualización: 2026-09-29 (quinta revisión: seis sentencias integradas; V3 y V5 resueltos).
+Archivo vivo. Última actualización: 2026-09-29 (sexta revisión: pendientes vitales cerrados; sólo quedan las decisiones D1-D4).
 
 Convención: [U] sólo vos podés resolverlo. [I] puedo seguirlo yo si me lo pedís. [D] decisión tuya.
             [x] resuelto.
@@ -11,31 +11,26 @@ disciplina. La discusión normativa está suficientemente resuelta para los fine
 jurídico pasa a ser contexto, no objeto.
 
 =============================================================================
-VITALES
+VITALES (cerrados el 2026-09-29 tras la barrida final de búsquedas)
 =============================================================================
 
-[U] V1. Cerrar el universo de casos. Con las seis sentencias leídas (26.926, 26.927, 27.023, 27.193,
-        27.198, 28.712) quedan sólo tres huecos:
-        - 25.940 (11/7/1996): departamento, materia y promotores desconocidos.
-        - 25.942 (31/7/1996, Rocha) y 24.369 (6/7/1988, Flores): faltan el decreto exacto, los
-          promotores y las firmas (de Flores ya sabemos: suba de contribución, tasas y patentes;
-          referéndum promovido por el 15 %; el Intendente lo rechazó y los promotores recurrieron).
-        - 28.217 (2020): sentencia citada por la asesora de la Junta de Paysandú como precedente.
-          Probablemente es la de las iniciativas contra el Ferrocarril Central (Sarandí Grande).
-          URL probable: impo.com.uy/bases/sentencias-corte-electoral/28217-2020
-
-[I] V2. Desenlaces faltantes de casos ya identificados: Maldonado 2017 (contribución) y Ferrocarril
-        Central 2019-20 (Santa Bernardina, Carlos Reyles, Joanicó; sentencia sobre Sarandí Grande).
-        Sigo yo con prensa local y actas de Juntas; si no aparece, se consigna "sin desenlace
-        documentado" y se explica.
-
-[U] V4. Padrón de habilitados por departamento (elección 2024 o 2025) y de los municipios con
-        iniciativa en curso (Empalme Olmos). Necesario para expresar el costo de entrada (15 % y
-        20 %) en firmas y compararlo con las firmas efectivamente reunidas en cada caso. Fuente:
-        catálogo de datos abiertos de la Corte Electoral (habilitados por circuito, agregable).
-
-[I] V6. Casos abiertos (Paysandú, Empalme Olmos, Durazno): quedan consignados como "en curso" a la
-        fecha de corte; no se hace seguimiento activo salvo que lo pidas.
+[x] V1. Universo de casos: CERRADO. Quedan sin fuente primaria, y se consignan así en el artículo,
+        las Sentencias 24.369 (Flores 1988), 25.940 (1996, caso no identificado), 25.942 (Rocha
+        1996), 27.351 (Colonia 2017) y 28.217 (2020, Ferrocarril Central, conocida por prensa).
+        No aparecen en IMPO ni en prensa. No se insiste.
+[x] V2. Desenlaces: CERRADO. Ferrocarril Central resuelto por prensa (Corte Electoral, abril de
+        2020: improcedentes Durazno/Santa Bernardina y Florida/25 de Mayo/Sarandí Grande; sin
+        referéndum subsidiario para la iniciativa local). Maldonado 2017: sin rastro de presentación
+        ni validación; se consigna como campaña sin desenlace documentado.
+[x] V3. Sentencias 27.193 y 28.712: leídas.
+[~] V4. Padrón por departamento: PARCIAL. Documentados Montevideo (1.025.544), Canelones (432.046),
+        Maldonado (153.520), Salto (104.873), Paysandú (96.631) para 2024; Tacuarembó 75.731 (2013)
+        y Rocha 60.207 (2014) por sentencias. Los otros catorce están en el catálogo de datos
+        abiertos de la Corte (Plan circuital 2024), agregando por departamento; se hace sólo si el
+        artículo incluye una tabla completa de umbrales.
+[x] V5. Vacío de literatura: confirmado por el autor.
+[x] V6. Casos abiertos (Paysandú, Empalme Olmos, Durazno): quedan como "en curso" a la fecha de
+        corte.
 
 =============================================================================
 DECISIONES (definen el artículo)
