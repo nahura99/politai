@@ -1,0 +1,101 @@
+ULTIMO ESTADO DE LA SESION
+Fecha: 2026-09-30. Rama: claude/hola-922cls (todo commiteado y pusheado).
+Proyecto: articulo de ciencia politica sobre democracia directa departamental y local en Uruguay,
+para Politai N.º 29 (PUCP). Plazo de envio: 30/9/2026, politai@pucp.edu.pe, asunto
+"Convocatoria Revista Politai N°29".
+
+=============================================================================
+1. QUE HAY EN EL REPOSITORIO
+=============================================================================
+docs/articulo-politai-29.txt            Borrador completo del articulo (8 secciones, ~7.900 palabras de
+                                        cuerpo, resumen y abstract de 342/332 palabras). El autor esta
+                                        reescribiendo por secciones en su propio Word; el .txt es la base.
+docs/democracia-directa-departamental-uruguay.md   Analisis extenso (fuente de todo el detalle).
+docs/figuras/mapa1-activaciones.png/.svg  Mapa coropletico (Natural Earth 1:10m; base INE pendiente).
+docs/pedido-acceso-informacion-corte-electoral.txt  Pedido Ley 18.381 listo para firmar y enviar.
+datos/casos-democracia-directa-subnacional-uruguay.csv  Base de 22 eventos + antecedente 1927.
+datos/tabla1-definitiva.tsv             Tabla 1 del autor (7 columnas, categorias fijas). VERSION VIGENTE.
+datos/tabla1-activaciones.tsv           Tabla larga (10 columnas), solo referencia.
+bibliografia/                           Bibliografia anotada (00 general, 01 Uruguay, 02 AL, 03 int., 04 casos).
+fuentes/                                PDF de leyes, Constitucion, 7 sentencias, Tealdi, Correa Freitas,
+                                        El Telegrafo, Colonia Ya (txt), convocatoria Politai.
+pendientes.txt                          Lista viva de pendientes (leer junto con este archivo).
+
+=============================================================================
+2. DONDE QUEDO EL TRABAJO CON EL AUTOR (secuencia de hoy)
+=============================================================================
+Revisadas y reescritas con el autor: Marco normativo (sec. 2, incluido parrafo sintesis de los tres
+institutos y la delegacion a la Corte), Marco teorico (sec. 3, con parrafo nuevo sobre filtro de
+admisibilidad: Dietz 2018, Marin Castillo 2023, Caldon Palechor et al. 2024, Martinez-Moscoso y
+Alarcon Peña 2021), H2 invertida (ahora: se usa mas donde hay mas poblacion; la evidencia la rechaza),
+Cronologia 5.1 y 5.2 (versiones simplificadas entregadas en el chat, el autor las incorpora en Word).
+
+PROXIMO PASO: revisar 5.3 y 5.4 con los ajustes ya identificados (ver punto 4), luego Resultados
+(6) y Conclusiones (7) para que reflejen: H2 rechazada, "nueve de doce rechazos por remision",
+categorias "No verificadas", y la secuencia 1988 excluye tributos / 1996 rechaza esa exclusion pero
+deroga / 2017 recupera la exclusion.
+
+=============================================================================
+3. CORRECCIONES DE HECHO HECHAS HOY (ya aplicadas en repo)
+=============================================================================
+- Sentencia 25.940 (11/7/1996): reconstruida desde las discordias de la 27.333: improcedente por
+  derogacion de la Ley 9.515; ademas rechaza la exclusion por materia de 1988 y el argumento del
+  art. 225. Departamento y decreto siguen sin identificar.
+- Sentencia 27.351 (21/9/2017) NO es de Colonia (vLex: denuncia del P. Colorado contra el presidente
+  del BCU). La "segunda actuacion de la Corte en Colonia" (set. 2017) queda sin identificar.
+- Colonia 2017: el Intendente Moreira dicto denegatoria (Res. 322/017) SIN notificar a los promotores
+  y remitio a la Corte invocando el art. 322; la Corte asumio competencia por la remision (fuente:
+  Colonia Ya 7/3/2017 + Sentencia 27.333). En Tabla 1 va como "Remite a CE".
+- Art. 322 tiene tres literales (A, B, C); corregido "lit. D" en el analisis.
+- Cerro Largo 2006: c. 17.000 firmas "en un dia" segun testimonio posterior de Botana (no verificadas).
+- Joanico 2020: c. 4.000 firmas presentadas a la Junta de Canelones; sin resolucion documentada.
+- Maldonado 2002: apelacion art. 303 (1/3 de la Junta + 2.542 vecinos) contra aumento de contribucion
+  de Antia; antecedente de "via alternativa", no entra en el universo.
+- Rocha 1996: materia tributaria confirmada por Correa Freitas (p. 20).
+
+=============================================================================
+4. AJUSTES PENDIENTES EN 5.3 Y 5.4 (identificados, no aplicados en el Word del autor)
+=============================================================================
+- Joanico: NO decir que la Corte la declaro improcedente; solo Durazno y Florida (abril 2020).
+- Cita sobre referendum subsidiario: usar la documentada de Garchitorena ("el referendum es una
+  herramienta distinta y no esta pensada necesariamente para iniciativas locales") o quitar comillas.
+- Paysandu: fundamento = politica energetica + ordenamiento territorial (NO "areas protegidas").
+- Punta Ballena: "los ediles presentes aprobaron por unanimidad" (la Junta tiene 31).
+- Sin fuente, verificar o quitar: Rincon "unico de los 125 municipios 2020-2025 creado por
+  iniciativa popular" (mas seguro: "primer municipio del pais creado por iniciativa popular");
+  Sarandi Grande "obtuvo un cambio de trazado por via politica".
+- Toda la parte de prensa de 5.3-5.4 esta sin citas: agregar (Outlet, fecha) para Punta Ballena,
+  Paysandu (El Telegrafo), Ferrocarril (montevideo.com.uy, Subrayado), Tacuarembo 2014, Maldonado 2017
+  (la diaria 4/3/2017); resto puede ir con nota general remitiendo a la base de datos. URLs en la
+  seccion 9 del analisis.
+
+=============================================================================
+5. TABLA 1 DEFINITIVA: CATEGORIAS
+=============================================================================
+Columnas: Año | Lugar | Mecanismo | Materia | Firmas | Respuesta Gob. Dep. | Desenlace.
+Firmas: Alcanzado / No alcanzado / No verif. (la Corte resolvio sin contar: CL 2006, Col 2006,
+  Flores 2009, Col 2017, Paysandu 2026) / s.d. / En curso.
+Respuesta: Convoca / Aprueba / Rechaza / Remite a CE / s.d. / En curso.
+Desenlace: Votacion / Norma aprobada / Rechazo (CE) / Rechazo (JD) / s.d. / En curso.
+Pendientes de decision del autor: grafia "Joanico" (oficial) y materia de Punta Ballena
+  ("Ordenamiento territorial" recomendado en vez de "Medio ambiente"); Joanico "Alcanzado" se apoya
+  solo en prensa que cita a los promotores.
+
+=============================================================================
+6. PARA REDUCIR LOS s.d.
+=============================================================================
+Enviar el pedido a la Corte (docs/pedido-acceso-informacion-corte-electoral.txt): sentencias 24.369,
+25.940, 25.942, 28.217, informe de cotejo de Colonia 2017 y listado de todas las sentencias sobre
+arts. 304/305 desde 1985 (el punto mas valioso: cierra la completitud del universo).
+Maldonado 2017: buscar en versiones taquigraficas de la Junta de Maldonado 2017-2018 ("iniciativa
+popular", "3.947"); si no aparece, cerrar como campaña sin presentacion.
+
+=============================================================================
+7. HERRAMIENTAS / ENTORNO (para la proxima sesion tecnica)
+=============================================================================
+- WebSearch funciona; WebFetch y curl a sitios .uy estan bloqueados (raw.githubusercontent y PyPI si).
+- PDF: pymupdf (texto) y render a PNG para los escaneados (27.333 y Correa Freitas no tienen texto).
+  Paginas ya renderizadas en scratchpad se pierden entre sesiones; re-renderizar desde fuentes/.
+- docx-js disponible para generar Word (el intento de hoy quedo sin ejecutar por fallo del
+  clasificador; script en scratchpad, descartable).
+- Commits con trailers Co-Authored-By y Claude-Session; push a claude/hola-922cls.
