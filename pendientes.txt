@@ -18,7 +18,9 @@ VITALES (cerrados el 2026-09-29 tras la barrida final de búsquedas)
         las Sentencias 24.369 (Flores 1988), 25.940 (1996, departamento no identificado; contenido
         reconstruido el 30/9 desde las discordias de la 27.333: derogación + rechazo de la exclusión
         por materia y del argumento del art. 225), 25.942 (Rocha
-        1996), 27.351 (Colonia 2017) y 28.217 (2020, Ferrocarril Central, conocida por prensa).
+        1996) y 28.217 (2020, Ferrocarril Central, conocida por prensa). La 27.351 NO es de Colonia
+        (vLex: denuncia del P. Colorado contra el presidente del BCU); la segunda actuación en Colonia
+        (set. 2017) queda sin identificar.
         No aparecen en IMPO ni en prensa. No se insiste.
 [x] V2. Desenlaces: CERRADO. Ferrocarril Central resuelto por prensa (Corte Electoral, abril de
         2020: improcedentes Durazno/Santa Bernardina y Florida/25 de Mayo/Sarandí Grande; sin
@@ -101,7 +103,7 @@ ARCHIVADOS (no vitales; se retoman sólo si sobra tiempo o lo pide un evaluador)
   prensa.
 - Votos por Sí y por No del plebiscito del vintén (1951).
 - Ley 18.567, art. 16, texto original de 2009.
-- Contenido de la Sentencia 27.351 (Colonia, set. 2017).
+- Segunda actuación de la Corte en Colonia (set. 2017): identificar número de sentencia; la 27.351 no es.
 - Texto completo de Tealdi, "Restricciones al ejercicio de la democracia directa".
 - Doctrina en papel 1985-1996 (Esteva, Frugone, Sapolinski, Ruocco, Cagnoni): Tealdi 2019 y Correa
   Freitas 2020 ya la resumen.
@@ -120,7 +122,7 @@ ARCHIVADOS (no vitales; se retoman sólo si sobra tiempo o lo pide un evaluador)
 RESUELTOS
 =============================================================================
 [x] 2026-09-29. Fecha del plebiscito del vintén: 22/7/1951.
-[x] 2026-09-29. Segunda actuación de la Corte en Colonia identificada: Sentencia 27.351 (21/9/2017).
+[x] 2026-09-30. CORREGIDO: la Sentencia 27.351 (21/9/2017) no es de Colonia; la segunda actuación queda sin identificar.
 [x] 2026-09-29. Caso Empalme Olmos incorporado (sección 5.9).
 [x] 2026-09-29. Aclarado el punto "padrones por departamento" (ahora V4).
 [x] 2026-09-29. Carpeta bibliografia/ creada.

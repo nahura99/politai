@@ -47,7 +47,7 @@ Tabla de referencia para la discusión comparada. Cada fila sintetiza cómo se *
 | Cerro Chato | 1927 | Localidad | Plebiscito consultivo por decreto de la Corte Electoral | Comisión vecinal | Ganó Durazno; no ejecutado |
 | Montevideo, boleto | 1951 | Departamento | Referéndum (Ley 9.515, arts. 74-77), 20 % | Partidos y sindicatos | 127.768 firmas válidas; votaron 117.649; decreto derogado |
 | Tacuarembó, minería | 2013 | Departamento | Iniciativa popular (art. 305), 15 % | Colectivo socioambiental | Corte Electoral: improcedente por competencia; decretos de la Junta anulados por la Cámara (art. 303) |
-| Colonia, alumbrado | 2017 | Departamento | Referéndum (art. 304), 20 % | Comisión pro referéndum (FA y vecinos) | Inadmisible por materia tributaria (Sentencias 27.333 y 27.351); SCJ 2026 |
+| Colonia, alumbrado | 2017 | Departamento | Referéndum (art. 304), 20 % | Comisión pro referéndum (FA y vecinos) | Inadmisible por materia tributaria (Sentencia 27.333); SCJ 2026 |
 | Maldonado, contribución | 2017 | Departamento | Iniciativa popular (art. 304 inc. 2; Ley 9.515 art. 79) | Vecinas | Sin desenlace documentado |
 | Rincón (Treinta y Tres) | 2017 | Localidad | Iniciativa para crear municipio (Ley 19.272 art. 16) | Vecinos | Municipio creado (Decreto 20/2017) |
 | Zapicán y Pirarajá (Lavalleja) | 2023 | Localidad | Iniciativa para crear municipio | Vecinos | Municipios creados; eligieron autoridades en 2025 |
