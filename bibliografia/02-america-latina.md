@@ -114,7 +114,7 @@ Estudios regionales comparados y literatura por país sobre democracia directa s
 37. **Marín Castillo, J. C. (2023).** "Consultas populares mineras: ¿la imposibilidad de la democracia en Colombia?". *Estudios de Derecho* 80(175): 101-123. `[V]` https://revistas.udea.edu.co/index.php/red/article/view/349328
     Eje: DESENLACE. Nota: el cierre jurisprudencial tras SU-095/2018.
 
-38. **"La consulta popular minera en Colombia: desarrollo jurisprudencial en relación con estándares internacionales".** *Revista Derecho del Estado* (Externado). `[V]` https://revistas.uexternado.edu.co/index.php/derest/article/view/10116
+38. **Caldón Palechor, J. F., Mosquera Rodríguez, A. S. y Gutiérrez Pisso, J. A. (2024).** "La consulta popular minera en Colombia: desarrollo jurisprudencial en relación con estándares internacionales". *Revista Derecho del Estado* 61: 151-178. https://doi.org/10.18601/01229893.n61.06 `[V]` https://revistas.uexternado.edu.co/index.php/derest/article/view/10116
     Eje: DESENLACE.
 
 39. **"La participación ciudadana en las actividades mineras en Colombia".** Redalyc. `[V]` https://www.redalyc.org/journal/4077/407773564004/html/
@@ -125,6 +125,9 @@ Estudios regionales comparados y literatura por país sobre democracia directa s
 41. Casos: Piedras (Tolima) 2013, Tauramena (Casanare) 2013, Cajamarca (Tolima) 2017, Cabrera (Cundinamarca) 2017, Cumaral (Meta) 2017, Pijao (Quindío) 2017, Arbeláez, Jesús María y Sucre (Santander) 2017. Ley 134 de 1994 y Ley 1757 de 2015 (mecanismos de participación). `[V]` https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=330
 
 ## E. Ecuador
+
+41a. **Martínez-Moscoso, Andrés y Alarcón Peña, Pablo (2021).** "El rol de la Corte Constitucional del Ecuador en las iniciativas de consulta popular sobre actividades mineras". En *Tutela de los derechos de la naturaleza y el ambiente sano* (pp. 21-65). Quito: Rethos. `[C]` https://www.researchgate.net/publication/349105221
+    Eje: DESENLACE (filtro previo). Nota: tres momentos: Girón (dictamen ficto favorable), rechazo de las iniciativas ciudadanas de Azuay por seguridad jurídica de las concesiones, y control del pedido del GAD de Cuenca (Dictamen 6-20-CP, 18/9/2020). Ver también Dictamen 7-21-CP (Quito, Chocó Andino, 12/1/2022). Es el anclaje comparado más directo para H3.
 
 42. Consulta popular de Girón (Azuay), 24 de marzo de 2019: más del 80 % contra la minería en Quimsacocha. Consulta popular de Cuenca, 7 de febrero de 2021: alrededor del 80 % contra la minería en las zonas de recarga hídrica de cinco ríos. Base: art. 104 de la Constitución (iniciativa del 10 % del padrón de la circunscripción), dictamen previo de la Corte Constitucional. `[V]` https://es.mongabay.com/2021/03/consulta-popular-prohiben-mineria-en-cuenca-ecuador/ ; https://es.mongabay.com/2020/09/consulta-popular-cuenca-ecuador-para-prohibir-mineria-y-proteger-agua/
     Eje: ACTIVACIÓN, DESENLACE. Nota: la Corte Constitucional rechazó tres pedidos anteriores de Yaku Pérez por seguridad jurídica de las concesiones; contraste con Uruguay: aquí el filtro previo de constitucionalidad existe por ley y admitió las consultas bien delimitadas.
