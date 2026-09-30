@@ -15,7 +15,9 @@ VITALES (cerrados el 2026-09-29 tras la barrida final de búsquedas)
 =============================================================================
 
 [x] V1. Universo de casos: CERRADO. Quedan sin fuente primaria, y se consignan así en el artículo,
-        las Sentencias 24.369 (Flores 1988), 25.940 (1996, caso no identificado), 25.942 (Rocha
+        las Sentencias 24.369 (Flores 1988), 25.940 (1996, departamento no identificado; contenido
+        reconstruido el 30/9 desde las discordias de la 27.333: derogación + rechazo de la exclusión
+        por materia y del argumento del art. 225), 25.942 (Rocha
         1996), 27.351 (Colonia 2017) y 28.217 (2020, Ferrocarril Central, conocida por prensa).
         No aparecen en IMPO ni en prensa. No se insiste.
 [x] V2. Desenlaces: CERRADO. Ferrocarril Central resuelto por prensa (Corte Electoral, abril de

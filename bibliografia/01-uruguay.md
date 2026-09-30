@@ -181,7 +181,7 @@ Literatura, normativa, jurisprudencia electoral y fuentes de casos sobre democra
 
 45a. **Cadena jurisprudencial sobre el referéndum departamental identificada en la Sentencia 27.333** (todas a obtener en IMPO, base de sentencias de la Corte Electoral):
     - Sentencia 24.369 (6/7/1988, Intendencia de Flores): exclusión de los decretos hacendísticos, tributarios y presupuestales del art. 304.
-    - Sentencias 25.940 (11/7/1996, caso por identificar) y 25.942 (31/7/1996, Intendencia de Rocha): la Ley 9.515 fue derogada por la Constitución de 1952; el art. 304 no admite exclusiones por materia (25.940).
+    - Sentencias 25.940 (11/7/1996, caso por identificar) y 25.942 (31/7/1996, Intendencia de Rocha): la Ley 9.515 fue derogada por la Constitución de 1952; la 25.940 sostuvo además, contra la 24.369, que el art. 304 no admite exclusiones por materia y que el art. 225 no las funda (según la cita en la discordia de Penco, Sentencia 27.333, pp. 32-34 del expediente). Materia probable: tributaria o presupuestal.
     - Sentencia 26.926 (20/12/2006, Cerro Largo): referéndum contra el art. 4 lit. b del Decreto 10/2006 (diferimiento del casco); no ha lugar; Ley 9.515 derogada; materia nacional. `[V]` (texto íntegro en fuentes/)
     - Sentencia 26.927 (20/12/2006, Colonia): iniciativa departamental para eximir del casco; no ha lugar; la iniciativa departamental no fue instituida por ley; materia nacional. Discordes Salvo, Penco, Báez. `[V]` (en fuentes/)
     - Sentencia 27.023 (27/8/2009, Flores): iniciativa departamental para eximir del casco a menos de 40 km/h; no ha lugar por materia nacional (Ley 18.191) sin verificar firmas ni decidir la vigencia. Unánime. `[V]` (en fuentes/)
